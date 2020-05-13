@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Bachelorproef_2020_Software": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "COMPUTER_VISION_SUBSCRIPTION_KEY": "42a49cd50ae24490b61f968e6bb13606",
+        "COMPUTER_VISION_ENDPOINT": "https://hd-handschriftherkenning-2020.cognitiveservices.azure.com/"
+      }
+    }
+  }
+}
