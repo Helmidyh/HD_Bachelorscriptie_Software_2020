@@ -1,0 +1,1164 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{Abrahams2008}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0fe59b9f55fa9232348931237b16d6d9}{%
+           family={Abrahams},
+           familyi={A\bibinitperiod},
+           given={Marc},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0fe59b9f55fa9232348931237b16d6d9}
+      \strng{fullhash}{0fe59b9f55fa9232348931237b16d6d9}
+      \strng{bibnamehash}{0fe59b9f55fa9232348931237b16d6d9}
+      \strng{authorbibnamehash}{0fe59b9f55fa9232348931237b16d6d9}
+      \strng{authornamehash}{0fe59b9f55fa9232348931237b16d6d9}
+      \strng{authorfullhash}{0fe59b9f55fa9232348931237b16d6d9}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Problems reading your prescription?}
+      \field{year}{2008}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.improbable.com/2008/04/18/guardian-column-109/
+      \endverb
+      \verb{url}
+      \verb https://www.improbable.com/2008/04/18/guardian-column-109/
+      \endverb
+    \endentry
+    \entry{Amazon2019}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{1}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Detecing Text in an Image}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html
+      \endverb
+    \endentry
+    \entry{Amazon2020a}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{2}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Amazon Rekognition}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek
+      \endverb
+      \verb{url}
+      \verb https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek
+      \endverb
+    \endentry
+    \entry{Amazon2020b}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b3b3a6ac74ecbd56bcdbefa4799fb9df}{%
+           family={Amazon},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{fullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{bibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorbibnamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authornamehash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \strng{authorfullhash}{b3b3a6ac74ecbd56bcdbefa4799fb9df}
+      \field{extraname}{3}
+      \field{sortinit}{A}
+      \field{sortinithash}{a3dcedd53b04d1adfd5ac303ecd5e6fa}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is Amazon Rekognition?}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html
+      \endverb
+      \verb{url}
+      \verb https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html
+      \endverb
+    \endentry
+    \entry{Bhardwaj2010}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d3a99039c3afcb68633e984feaa377c1}{%
+           family={Bhardwaj},
+           familyi={B\bibinitperiod},
+           given={Sushil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3fad66f0c3f383bae60259e8922fa813}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Leena},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f2e2fde9577b75576e6fe1a639e3f5b}{%
+           family={Jain},
+           familyi={J\bibinitperiod},
+           given={Sandeep},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{977af39eee1cb613522ae79eb314c968}
+      \strng{fullhash}{bfa9eb6e2066f008764714ab3d420e9c}
+      \strng{bibnamehash}{bfa9eb6e2066f008764714ab3d420e9c}
+      \strng{authorbibnamehash}{bfa9eb6e2066f008764714ab3d420e9c}
+      \strng{authornamehash}{977af39eee1cb613522ae79eb314c968}
+      \strng{authorfullhash}{bfa9eb6e2066f008764714ab3d420e9c}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{CLOUD COMPUTING: A STUDY OFINFRASTRUCTURE AS A SERVICE (IAAS)}
+      \field{year}{2010}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Breithaupt2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d14e47d854a52c1bfe4ffd400867779d}{%
+           family={Breithaupt},
+           familyi={B\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{d14e47d854a52c1bfe4ffd400867779d}
+      \strng{fullhash}{d14e47d854a52c1bfe4ffd400867779d}
+      \strng{bibnamehash}{d14e47d854a52c1bfe4ffd400867779d}
+      \strng{authorbibnamehash}{d14e47d854a52c1bfe4ffd400867779d}
+      \strng{authornamehash}{d14e47d854a52c1bfe4ffd400867779d}
+      \strng{authorfullhash}{d14e47d854a52c1bfe4ffd400867779d}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Improving OCR and ICR AccuracyThrough Expert Voting}
+      \field{year}{2014}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Bunke1995}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=60fc725664d2ba1eca9fed17c8919730}{%
+           family={Bunke},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c2c353344f0538430e45cabfc257a5e7}{%
+           family={Roth},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=433bb7a02e51eea2abbb4c16f8e8255d}{%
+           family={Schukat-Talamazzini},
+           familyi={S\bibinithyphendelim T\bibinitperiod},
+           given={E.\bibnamedelimi G.},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a227e86f6810c00829e61ce73b520801}
+      \strng{fullhash}{f21a430478dfff5521ee4abc6d9cd441}
+      \strng{bibnamehash}{f21a430478dfff5521ee4abc6d9cd441}
+      \strng{authorbibnamehash}{f21a430478dfff5521ee4abc6d9cd441}
+      \strng{authornamehash}{a227e86f6810c00829e61ce73b520801}
+      \strng{authorfullhash}{f21a430478dfff5521ee4abc6d9cd441}
+      \field{sortinit}{B}
+      \field{sortinithash}{8de16967003c7207dae369d874f1456e}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Off-line Cursive Handwriting Recognition using Hidden Markov Models}
+      \field{year}{1995}
+      \field{dateera}{ce}
+    \endentry
+    \entry{GergelyTimar2003}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=2ce80ca5580f8dda6ee186468cf6979f}{%
+           family={Gergely\bibnamedelima Timár},
+           familyi={G\bibinitperiod\bibinitdelim T\bibinitperiod},
+           given={Kristóf\bibnamedelima Karacs},
+           giveni={K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=710b0a30594e5ea858d1d4404032aebe}{%
+           family={Rekeczky},
+           familyi={R\bibinitperiod},
+           given={Csaba},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \strng{fullhash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \strng{bibnamehash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \strng{authorbibnamehash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \strng{authornamehash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \strng{authorfullhash}{6a01acafdb00b446b4da5a68bfd0e3aa}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Analogic Preprocessing and Segmentation Algorithms for Off-line Handwriting Recognition}
+      \field{year}{2003}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Google2020c}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{extraname}{1}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{AI and machine learning products}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/products/ai/
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/products/ai/
+      \endverb
+    \endentry
+    \entry{Google2020a}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{extraname}{2}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cloud locations}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/about/locations
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/about/locations
+      \endverb
+    \endentry
+    \entry{Google2020e}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{extraname}{3}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Detect handwriting in images}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/vision/docs/handwriting
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/vision/docs/handwriting
+      \endverb
+    \endentry
+    \entry{Google2020d}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{extraname}{4}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Vision AI}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/vision
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/vision
+      \endverb
+    \endentry
+    \entry{Google2020b}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8b36e9207c24c76e6719268e49201d94}{%
+           family={Google},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{fullhash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{bibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorbibnamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authornamehash}{8b36e9207c24c76e6719268e49201d94}
+      \strng{authorfullhash}{8b36e9207c24c76e6719268e49201d94}
+      \field{extraname}{5}
+      \field{sortinit}{G}
+      \field{sortinithash}{62eb2aa29549e4fdbd3cb154ec5711cb}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Why Google cloud?}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://cloud.google.com/why-google-cloud
+      \endverb
+      \verb{url}
+      \verb https://cloud.google.com/why-google-cloud
+      \endverb
+    \endentry
+    \entry{Joson2017}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b99c662aa108d80817b6bb764adec5e3}{%
+           family={Joson},
+           familyi={J\bibinitperiod},
+           given={Reynaldo\bibnamedelima O.},
+           giveni={R\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b99c662aa108d80817b6bb764adec5e3}
+      \strng{fullhash}{b99c662aa108d80817b6bb764adec5e3}
+      \strng{bibnamehash}{b99c662aa108d80817b6bb764adec5e3}
+      \strng{authorbibnamehash}{b99c662aa108d80817b6bb764adec5e3}
+      \strng{authornamehash}{b99c662aa108d80817b6bb764adec5e3}
+      \strng{authorfullhash}{b99c662aa108d80817b6bb764adec5e3}
+      \field{sortinit}{J}
+      \field{sortinithash}{c45040a764d616897e7f5b30174d7b92}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Legible Physician Handwriting - An Advocacy - A Legacy}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://sites.google.com/site/rojoson70memoir/legible-physician-handwriting---an-advocacy---a-legacy
+      \endverb
+      \verb{url}
+      \verb https://sites.google.com/site/rojoson70memoir/legible-physician-handwriting---an-advocacy---a-legacy
+      \endverb
+    \endentry
+    \entry{ManishGodse2009}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=8cd45c728db0326c9934f4ebae5d039a}{%
+           family={Manish\bibnamedelima Godse},
+           familyi={M\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Shrikant\bibnamedelima Mulik},
+           giveni={S\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8cd45c728db0326c9934f4ebae5d039a}
+      \strng{fullhash}{8cd45c728db0326c9934f4ebae5d039a}
+      \strng{bibnamehash}{8cd45c728db0326c9934f4ebae5d039a}
+      \strng{authorbibnamehash}{8cd45c728db0326c9934f4ebae5d039a}
+      \strng{authornamehash}{8cd45c728db0326c9934f4ebae5d039a}
+      \strng{authorfullhash}{8cd45c728db0326c9934f4ebae5d039a}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Approach for Selecting Software-as-a-Service (SaaS) Product}
+      \field{year}{2009}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Microsoft2017}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Vision API - v3.0 Preview}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://westcentralus.dev.cognitive.microsoft.com/docs/services/5d98695995feb7853f67d6a6/operations/5d9869604be85dee480c8750
+      \endverb
+      \verb{url}
+      \verb https://westcentralus.dev.cognitive.microsoft.com/docs/services/5d98695995feb7853f67d6a6/operations/5d9869604be85dee480c8750
+      \endverb
+    \endentry
+    \entry{Microsoft2019a}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Call the Computer Vision API}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtocallvisionapi
+      \endverb
+      \verb{url}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtocallvisionapi
+      \endverb
+    \endentry
+    \entry{Microsoft2019b}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Language support for Computer Vision}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/language-support#text-recognition
+      \endverb
+      \verb{url}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/language-support#text-recognition
+      \endverb
+    \endentry
+    \entry{Microsoft2019}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{4}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Recognize printed and handwritten text}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text
+      \endverb
+      \verb{url}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text
+      \endverb
+    \endentry
+    \entry{Microsoft2020f}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{5}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Azure Dev/Test Pricing}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/pricing/dev-test/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/pricing/dev-test/
+      \endverb
+    \endentry
+    \entry{Microsoft2020c}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{6}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Computer Vision}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/
+      \endverb
+    \endentry
+    \entry{Microsoft2020d}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{7}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Deep learning vs. machine learning}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.microsoft.com/en-us/azure/machine-learning/concept-deep-learning-vs-machine-learning#deep-learning-machine-learning-and-ai
+      \endverb
+      \verb{url}
+      \verb https://docs.microsoft.com/en-us/azure/machine-learning/concept-deep-learning-vs-machine-learning#deep-learning-machine-learning-and-ai
+      \endverb
+    \endentry
+    \entry{Microsoft2020a}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{8}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to cloud computing}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/overview/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/overview/
+      \endverb
+    \endentry
+    \entry{Microsoft2020g}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{9}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Prijsinformatie Cognitive Services - Computer Vision-API}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/nl-nl/pricing/details/cognitive-services/computer-vision/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/nl-nl/pricing/details/cognitive-services/computer-vision/
+      \endverb
+    \endentry
+    \entry{Microsoft2020h}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{10}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Quickstart: Extract printed and handwritten text using the Computer Vision 2.0 and 2.1 REST API and Csharp}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/csharp-hand-text?tabs=version-3
+      \endverb
+      \verb{url}
+      \verb https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/csharp-hand-text?tabs=version-3
+      \endverb
+    \endentry
+    \entry{Microsoft2020b}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{11}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is cognitive services?}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/services/cognitive-services/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/services/cognitive-services/
+      \endverb
+    \endentry
+    \entry{Microsoft2020e}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=140864078aeca1c7c35b4beb33c53c34}{%
+           family={Microsoft},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{fullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{bibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorbibnamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authornamehash}{140864078aeca1c7c35b4beb33c53c34}
+      \strng{authorfullhash}{140864078aeca1c7c35b4beb33c53c34}
+      \field{extraname}{12}
+      \field{sortinit}{M}
+      \field{sortinithash}{2e5c2f51f7fa2d957f3206819bf86dc3}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{What is machine learning?}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://azure.microsoft.com/en-us/overview/what-is-machine-learning-platform/
+      \endverb
+      \verb{url}
+      \verb https://azure.microsoft.com/en-us/overview/what-is-machine-learning-platform/
+      \endverb
+    \endentry
+    \entry{NafizArica2001}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f73403f8b6df0d66ce55794507376098}{%
+           family={Nafiz\bibnamedelima Arica},
+           familyi={N\bibinitperiod\bibinitdelim A\bibinitperiod},
+           given={Fatos\bibnamedelimb T.\bibnamedelimi Yarman-Vural},
+           giveni={F\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim Y\bibinithyphendelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f73403f8b6df0d66ce55794507376098}
+      \strng{fullhash}{f73403f8b6df0d66ce55794507376098}
+      \strng{bibnamehash}{f73403f8b6df0d66ce55794507376098}
+      \strng{authorbibnamehash}{f73403f8b6df0d66ce55794507376098}
+      \strng{authornamehash}{f73403f8b6df0d66ce55794507376098}
+      \strng{authorfullhash}{f73403f8b6df0d66ce55794507376098}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Overview of Character Recognition Focused on Off-Line Handwriting}
+      \field{year}{2001}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Nagy1999}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d1539e20f9c88c1fb3ffabe0659bbb64}{%
+           family={Nagy},
+           familyi={N\bibinitperiod},
+           given={George},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4c5e31e5e46f4b60ecb21122666a63fb}{%
+           family={Nartker},
+           familyi={N\bibinitperiod},
+           given={Thomas\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b05e7ba32ab26aec52f57a2bf1cea2f5}{%
+           family={Rice},
+           familyi={R\bibinitperiod},
+           given={Stephen\bibnamedelima V.},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c9a8f8f8c950120f6e0faaaac10e5d24}
+      \strng{fullhash}{ca90337d087c07e34199988a6f3b1de5}
+      \strng{bibnamehash}{ca90337d087c07e34199988a6f3b1de5}
+      \strng{authorbibnamehash}{ca90337d087c07e34199988a6f3b1de5}
+      \strng{authornamehash}{c9a8f8f8c950120f6e0faaaac10e5d24}
+      \strng{authorfullhash}{ca90337d087c07e34199988a6f3b1de5}
+      \field{sortinit}{N}
+      \field{sortinithash}{98cf339a479c0454fe09153a08675a15}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Optical Character Recognition: An illustrated guide to the frontier}
+      \field{year}{1999}
+      \field{dateera}{ce}
+    \endentry
+    \entry{RejeanPlamondon2000}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0cacb525f83f4ac93fad3e119df28162}{%
+           family={Réjean\bibnamedelima Plamondon},
+           familyi={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           given={Sargur\bibnamedelimb N.\bibnamedelimi Srihari},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0cacb525f83f4ac93fad3e119df28162}
+      \strng{fullhash}{0cacb525f83f4ac93fad3e119df28162}
+      \strng{bibnamehash}{0cacb525f83f4ac93fad3e119df28162}
+      \strng{authorbibnamehash}{0cacb525f83f4ac93fad3e119df28162}
+      \strng{authornamehash}{0cacb525f83f4ac93fad3e119df28162}
+      \strng{authorfullhash}{0cacb525f83f4ac93fad3e119df28162}
+      \field{sortinit}{R}
+      \field{sortinithash}{b9c68a358aea118dfa887b6e902414a7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{On-Line and Off-Line Handwriting Recognition: A Comprehensive Survey}
+      \field{year}{2000}
+      \field{dateera}{ce}
+    \endentry
+    \entry{SalimAlHabsib2019}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=4dbb5fce925a603eece4b1e4fa77ade0}{%
+           family={Salim\bibnamedelima Al-Habsib},
+           familyi={S\bibinitperiod\bibinitdelim A\bibinithyphendelim H\bibinitperiod},
+           given={Asharul\bibnamedelimb Islam\bibnamedelima Khan},
+           giveni={A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \strng{fullhash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \strng{bibnamehash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \strng{authorbibnamehash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \strng{authornamehash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \strng{authorfullhash}{4dbb5fce925a603eece4b1e4fa77ade0}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Machine Learning in Computer Vision}
+      \field{year}{2019}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Kumar2016}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b8067f0734a7d7b1fb28f50877d16b34}{%
+           family={Sanjay\bibnamedelima Kumar},
+           familyi={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           given={Narendra\bibnamedelima Sahu},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \strng{fullhash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \strng{bibnamehash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \strng{authorbibnamehash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \strng{authornamehash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \strng{authorfullhash}{b8067f0734a7d7b1fb28f50877d16b34}
+      \field{sortinit}{S}
+      \field{sortinithash}{c319cff79d99c853d775f88277d4e45f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Offline Handwriting Character Recognition (for use of medical purpose)Using Neural Network}
+      \field{year}{2016}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Tacio2013}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=7b32e79ce6956b20829d795299b3e5bc}{%
+           family={Tacio},
+           familyi={T\bibinitperiod}}}%
+      }
+      \strng{namehash}{7b32e79ce6956b20829d795299b3e5bc}
+      \strng{fullhash}{7b32e79ce6956b20829d795299b3e5bc}
+      \strng{bibnamehash}{7b32e79ce6956b20829d795299b3e5bc}
+      \strng{authorbibnamehash}{7b32e79ce6956b20829d795299b3e5bc}
+      \strng{authornamehash}{7b32e79ce6956b20829d795299b3e5bc}
+      \strng{authorfullhash}{7b32e79ce6956b20829d795299b3e5bc}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{year}{2013}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://rxistsource.blogspot.com/2013/07/samples-of-erroneous-violative-and.html
+      \endverb
+      \verb{url}
+      \verb http://rxistsource.blogspot.com/2013/07/samples-of-erroneous-violative-and.html
+      \endverb
+    \endentry
+    \entry{Tappert1990}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=8106e97090c7afa401c17a73a35c98f4}{%
+           family={Tappert},
+           familyi={T\bibinitperiod},
+           given={Charles\bibnamedelima C.},
+           giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=66ba394db8e78c8659d0d4cfc14a528d}{%
+           family={Suen},
+           familyi={S\bibinitperiod},
+           given={Ching\bibnamedelima Y.},
+           giveni={C\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc7cc7c914450da90c2e24b1b097fe90}{%
+           family={Wakahara},
+           familyi={W\bibinitperiod},
+           given={Toru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3df9119e81fe288823f985025bdc8292}
+      \strng{fullhash}{afe52005340764d31846f2cff89b56d3}
+      \strng{bibnamehash}{afe52005340764d31846f2cff89b56d3}
+      \strng{authorbibnamehash}{afe52005340764d31846f2cff89b56d3}
+      \strng{authornamehash}{3df9119e81fe288823f985025bdc8292}
+      \strng{authorfullhash}{afe52005340764d31846f2cff89b56d3}
+      \field{sortinit}{T}
+      \field{sortinithash}{51f9faf24c60c62ca764a77f78cf5666}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The State of the Art in On-Line Handwriting Recognition}
+      \field{year}{1990}
+      \field{dateera}{ce}
+    \endentry
+    \entry{VaibhavAGhandi1999}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=93dc7a156845227a968a4e1e1f869169}{%
+           family={Vaibhav\bibnamedelimb A\bibnamedelima Ghandi},
+           familyi={V\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Dr\bibnamedelima C.\bibnamedelimi K.\bibnamedelimi Kumbharana},
+           giveni={D\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{93dc7a156845227a968a4e1e1f869169}
+      \strng{fullhash}{93dc7a156845227a968a4e1e1f869169}
+      \strng{bibnamehash}{93dc7a156845227a968a4e1e1f869169}
+      \strng{authorbibnamehash}{93dc7a156845227a968a4e1e1f869169}
+      \strng{authornamehash}{93dc7a156845227a968a4e1e1f869169}
+      \strng{authorfullhash}{93dc7a156845227a968a4e1e1f869169}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Comparative study of Amazon EC2 andMicrosoft Azure cloud architecture}
+      \field{year}{1999}
+      \field{dateera}{ce}
+    \endentry
+    \entry{VijayLaxmiSahu2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=bd842e32e1860a0dfd17c937879366cd}{%
+           family={Vijay\bibnamedelimb Laxmi\bibnamedelima Sahu},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Babita\bibnamedelima Kubde},
+           giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bd842e32e1860a0dfd17c937879366cd}
+      \strng{fullhash}{bd842e32e1860a0dfd17c937879366cd}
+      \strng{bibnamehash}{bd842e32e1860a0dfd17c937879366cd}
+      \strng{authorbibnamehash}{bd842e32e1860a0dfd17c937879366cd}
+      \strng{authornamehash}{bd842e32e1860a0dfd17c937879366cd}
+      \strng{authorfullhash}{bd842e32e1860a0dfd17c937879366cd}
+      \field{sortinit}{V}
+      \field{sortinithash}{02432525618c08e2b03cac47c19764af}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Offline Handwritten Character Recognition Techniques using Neural Network: A Review}
+      \field{year}{2012}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Wright2019}{online}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6aec87a42e970ef4528fb4c2b5f0de57}{%
+           family={Wright},
+           familyi={W\bibinitperiod},
+           given={Nicola},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \strng{fullhash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \strng{bibnamehash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \strng{authorbibnamehash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \strng{authornamehash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \strng{authorfullhash}{6aec87a42e970ef4528fb4c2b5f0de57}
+      \field{sortinit}{W}
+      \field{sortinithash}{1af34bd8c148ffb32de1494636b49713}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{IaaS vs SaaS vs PaaS: A guide to Azure cloud service types}
+      \field{year}{2019}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://www.nigelfrank.com/blog/iaas-vs-saas-vs-paas-a-guide-to-azure-cloud-service-types/
+      \endverb
+      \verb{url}
+      \verb https://www.nigelfrank.com/blog/iaas-vs-saas-vs-paas-a-guide-to-azure-cloud-service-types/
+      \endverb
+    \endentry
+    \entry{Zhu2005}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0589c96d31566f50f3aa4f931a33357}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Xiaojin},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c0589c96d31566f50f3aa4f931a33357}
+      \strng{fullhash}{c0589c96d31566f50f3aa4f931a33357}
+      \strng{bibnamehash}{c0589c96d31566f50f3aa4f931a33357}
+      \strng{authorbibnamehash}{c0589c96d31566f50f3aa4f931a33357}
+      \strng{authornamehash}{c0589c96d31566f50f3aa4f931a33357}
+      \strng{authorfullhash}{c0589c96d31566f50f3aa4f931a33357}
+      \field{sortinit}{Z}
+      \field{sortinithash}{8f7b480688e809b50b6f6577b16f3db5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Semi-Supervised Learning Literature Survey}
+      \field{year}{2005}
+      \field{dateera}{ce}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

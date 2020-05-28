@@ -1,0 +1,91 @@
+
+Name:
+
+ 'Name:'  detected with a confidence level of [0.954]
+
+Lolita aluasen
+
+ 'Lolita'  detected with a confidence level of [0.287]
+ 'aluasen'  detected with a confidence level of [0.445]
+
+Address: Baging blog! Pasig City
+
+ 'Address:'  detected with a confidence level of [0.455]
+ 'Baging'  detected with a confidence level of [0.46]
+ 'blog!'  detected with a confidence level of [0.252]
+ 'Pasig'  detected with a confidence level of [0.252]
+ 'City'  detected with a confidence level of [0.694]
+
+Age: 39 Sex : F
+
+ 'Age:'  detected with a confidence level of [0.707]
+ '39'  detected with a confidence level of [0.762]
+ 'Sex'  detected with a confidence level of [0.799]
+ ':'  detected with a confidence level of [0.304]
+ 'F'  detected with a confidence level of [0.613]
+
+Date: 12-5-13
+
+ 'Date:'  detected with a confidence level of [0.799]
+ '12-5-13'  detected with a confidence level of [0.387]
+
+Fesoy tat # 30
+
+ 'Fesoy'  detected with a confidence level of [0.378]
+ 'tat'  detected with a confidence level of [0.567]
+ '#'  detected with a confidence level of [0.727]
+ '30'  detected with a confidence level of [0.849]
+
+Sig : A. D.
+
+ 'Sig'  detected with a confidence level of [0.762]
+ ':'  detected with a confidence level of [0.661]
+ 'A.'  detected with a confidence level of [0.692]
+ 'D.'  detected with a confidence level of [0.799]
+
+Ascorbic acid # 30
+
+ 'Ascorbic'  detected with a confidence level of [0.264]
+ 'acid'  detected with a confidence level of [0.271]
+ '#'  detected with a confidence level of [0.727]
+ '30'  detected with a confidence level of [0.849]
+
+toomg tab
+
+ 'toomg'  detected with a confidence level of [0.363]
+ 'tab'  detected with a confidence level of [0.799]
+
+gig: ance a day
+
+ 'gig:'  detected with a confidence level of [0.273]
+ 'ance'  detected with a confidence level of [0.289]
+ 'a'  detected with a confidence level of [0.873]
+ 'day'  detected with a confidence level of [0.94]
+
+Physician's Sig
+
+ 'Physician's'  detected with a confidence level of [0.916]
+ 'Sig'  detected with a confidence level of [0.849]
+
+Lic. No.
+
+ 'Lic.'  detected with a confidence level of [0.849]
+ 'No.'  detected with a confidence level of [0.955]
+
+12345
+
+ '12345'  detected with a confidence level of [0.762]
+
+PTR No
+
+ 'PTR'  detected with a confidence level of [0.958]
+ 'No'  detected with a confidence level of [0.911]
+
+1234547
+
+ '1234547'  detected with a confidence level of [0.57]
+
+S2 No
+
+ 'S2'  detected with a confidence level of [0.799]
+ 'No'  detected with a confidence level of [0.916]

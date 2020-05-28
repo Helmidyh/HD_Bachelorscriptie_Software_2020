@@ -1,0 +1,93 @@
+
+Name:
+
+ 'Name:'  detected with a confidence level of [0.936]
+
+Agatha Peralta
+
+ 'Agatha'  detected with a confidence level of [0.727]
+ 'Peralta'  detected with a confidence level of [0.443]
+
+Address: Ople to manray s Me
+
+ 'Address:'  detected with a confidence level of [1]
+ 'Ople'  detected with a confidence level of [0.292]
+ 'to'  detected with a confidence level of [0.997]
+ 'manray'  detected with a confidence level of [0.542]
+ 's'  detected with a confidence level of [0.572]
+ 'Me'  detected with a confidence level of [0.593]
+
+Age:
+
+ 'Age:'  detected with a confidence level of [0.762]
+
+14
+
+ '14'  detected with a confidence level of [0.931]
+
+Sex:
+
+ 'Sex:'  detected with a confidence level of [0.57]
+
+Date: 2- 4-11
+
+ 'Date:'  detected with a confidence level of [0.694]
+ '2-'  detected with a confidence level of [0.691]
+ '4-11'  detected with a confidence level of [0.689]
+
+Px
+
+ 'Px'  detected with a confidence level of [0.332]
+
+(Paracetamol )
+
+ '(Paracetamol'  detected with a confidence level of [0.278]
+ ')'  detected with a confidence level of [0.841]
+
+# 12
+
+ '#'  detected with a confidence level of [0.862]
+ '12'  detected with a confidence level of [0.944]
+
+Gig. take 1 fat g th or
+
+ 'Gig.'  detected with a confidence level of [0.261]
+ 'take'  detected with a confidence level of [0.563]
+ '1'  detected with a confidence level of [0.29]
+ 'fat'  detected with a confidence level of [0.262]
+ 'g'  detected with a confidence level of [0.303]
+ 'th'  detected with a confidence level of [0.252]
+ 'or'  detected with a confidence level of [0.749]
+
+an haded
+
+ 'an'  detected with a confidence level of [0.313]
+ 'haded'  detected with a confidence level of [0.42]
+
+Physician's Sig
+
+ 'Physician's'  detected with a confidence level of [0.958]
+ 'Sig'  detected with a confidence level of [0.847]
+
+Lic. No. _
+
+ 'Lic.'  detected with a confidence level of [0.912]
+ 'No.'  detected with a confidence level of [0.917]
+ '_'  detected with a confidence level of [0.269]
+
+43452
+
+ '43452'  detected with a confidence level of [0.611]
+
+PTR No / 345 900
+
+ 'PTR'  detected with a confidence level of [0.958]
+ 'No'  detected with a confidence level of [0.694]
+ '/'  detected with a confidence level of [0.438]
+ '345'  detected with a confidence level of [0.467]
+ '900'  detected with a confidence level of [0.848]
+
+$2 No
+
+ '$2'  detected with a confidence level of [0.064]
+ 'No'  detected with a confidence level of [0.909]

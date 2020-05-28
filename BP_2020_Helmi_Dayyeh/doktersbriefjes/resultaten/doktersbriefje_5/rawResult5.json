@@ -1,0 +1,742 @@
+
+[
+  {
+    "boundingBox": [
+      19,
+      8,
+      174,
+      9,
+      174,
+      19,
+      19,
+      18
+    ],
+    "text": "MIDTOWN PARK PHARMACY",
+    "words": [
+      {
+        "boundingBox": [
+          20,
+          8,
+          73,
+          8,
+          73,
+          19,
+          20,
+          18
+        ],
+        "text": "MIDTOWN",
+        "confidence": 0.918
+      },
+      {
+        "boundingBox": [
+          78,
+          8,
+          106,
+          9,
+          106,
+          20,
+          78,
+          19
+        ],
+        "text": "PARK",
+        "confidence": 0.958
+      },
+      {
+        "boundingBox": [
+          110,
+          9,
+          174,
+          9,
+          174,
+          20,
+          110,
+          20
+        ],
+        "text": "PHARMACY",
+        "confidence": 0.958
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      135,
+      31,
+      191,
+      31,
+      191,
+      40,
+      135,
+      40
+    ],
+    "text": "FABVIEW, TEXAS",
+    "words": [
+      {
+        "boundingBox": [
+          137,
+          32,
+          169,
+          32,
+          168,
+          40,
+          137,
+          41
+        ],
+        "text": "FABVIEW,",
+        "confidence": 0.252
+      },
+      {
+        "boundingBox": [
+          170,
+          32,
+          191,
+          31,
+          191,
+          40,
+          170,
+          40
+        ],
+        "text": "TEXAS",
+        "confidence": 0.27
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      27,
+      50,
+      152,
+      51,
+      151,
+      69,
+      27,
+      69
+    ],
+    "text": "MC, ). Pang",
+    "words": [
+      {
+        "boundingBox": [
+          33,
+          51,
+          79,
+          51,
+          79,
+          68,
+          33,
+          69
+        ],
+        "text": "MC,",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          85,
+          51,
+          99,
+          51,
+          99,
+          68,
+          85,
+          68
+        ],
+        "text": ").",
+        "confidence": 0.397
+      },
+      {
+        "boundingBox": [
+          103,
+          51,
+          151,
+          51,
+          151,
+          70,
+          103,
+          68
+        ],
+        "text": "Pang",
+        "confidence": 0.401
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      5,
+      69,
+      133,
+      69,
+      133,
+      87,
+      5,
+      86
+    ],
+    "text": "Achinese 125 Crack",
+    "words": [
+      {
+        "boundingBox": [
+          6,
+          73,
+          33,
+          71,
+          33,
+          84,
+          6,
+          85
+        ],
+        "text": "Achinese",
+        "confidence": 0.252
+      },
+      {
+        "boundingBox": [
+          46,
+          70,
+          72,
+          69,
+          72,
+          84,
+          46,
+          84
+        ],
+        "text": "125",
+        "confidence": 0.441
+      },
+      {
+        "boundingBox": [
+          87,
+          69,
+          130,
+          71,
+          129,
+          87,
+          87,
+          85
+        ],
+        "text": "Crack",
+        "confidence": 0.252
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      5,
+      94,
+      20,
+      94,
+      20,
+      107,
+      5,
+      107
+    ],
+    "text": "R",
+    "words": [
+      {
+        "boundingBox": [
+          7,
+          94,
+          16,
+          94,
+          16,
+          107,
+          7,
+          107
+        ],
+        "text": "R",
+        "confidence": 0.799
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      26,
+      96,
+      190,
+      100,
+      189,
+      129,
+      26,
+      123
+    ],
+    "text": "Stilleshot 25 mg",
+    "words": [
+      {
+        "boundingBox": [
+          32,
+          97,
+          135,
+          99,
+          136,
+          126,
+          32,
+          123
+        ],
+        "text": "Stilleshot",
+        "confidence": 0.28
+      },
+      {
+        "boundingBox": [
+          140,
+          99,
+          159,
+          99,
+          159,
+          128,
+          141,
+          127
+        ],
+        "text": "25",
+        "confidence": 0.841
+      },
+      {
+        "boundingBox": [
+          164,
+          100,
+          189,
+          101,
+          189,
+          130,
+          164,
+          128
+        ],
+        "text": "mg",
+        "confidence": 0.816
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      21,
+      127,
+      125,
+      127,
+      125,
+      152,
+      21,
+      153
+    ],
+    "text": "( milestial )",
+    "words": [
+      {
+        "boundingBox": [
+          22,
+          128,
+          25,
+          128,
+          24,
+          154,
+          22,
+          154
+        ],
+        "text": "(",
+        "confidence": 0.488
+      },
+      {
+        "boundingBox": [
+          30,
+          128,
+          108,
+          128,
+          108,
+          153,
+          29,
+          154
+        ],
+        "text": "milestial",
+        "confidence": 0.637
+      },
+      {
+        "boundingBox": [
+          114,
+          128,
+          125,
+          128,
+          124,
+          153,
+          113,
+          153
+        ],
+        "text": ")",
+        "confidence": 0.799
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      19,
+      164,
+      198,
+      165,
+      197,
+      193,
+      19,
+      192
+    ],
+    "text": "Sig: 194n, for 8 days",
+    "words": [
+      {
+        "boundingBox": [
+          20,
+          165,
+          68,
+          166,
+          67,
+          192,
+          19,
+          193
+        ],
+        "text": "Sig:",
+        "confidence": 0.469
+      },
+      {
+        "boundingBox": [
+          73,
+          166,
+          109,
+          167,
+          109,
+          191,
+          73,
+          192
+        ],
+        "text": "194n,",
+        "confidence": 0.393
+      },
+      {
+        "boundingBox": [
+          114,
+          167,
+          133,
+          168,
+          133,
+          191,
+          114,
+          191
+        ],
+        "text": "for",
+        "confidence": 0.57
+      },
+      {
+        "boundingBox": [
+          139,
+          168,
+          150,
+          168,
+          150,
+          191,
+          139,
+          191
+        ],
+        "text": "8",
+        "confidence": 0.855
+      },
+      {
+        "boundingBox": [
+          155,
+          168,
+          197,
+          169,
+          198,
+          191,
+          156,
+          191
+        ],
+        "text": "days",
+        "confidence": 0.431
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      66,
+      194,
+      138,
+      197,
+      136,
+      219,
+      65,
+      214
+    ],
+    "text": "then US",
+    "words": [
+      {
+        "boundingBox": [
+          69,
+          195,
+          102,
+          194,
+          102,
+          215,
+          69,
+          214
+        ],
+        "text": "then",
+        "confidence": 0.762
+      },
+      {
+        "boundingBox": [
+          106,
+          195,
+          133,
+          198,
+          132,
+          219,
+          106,
+          216
+        ],
+        "text": "US",
+        "confidence": 0.359
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      4,
+      217,
+      186,
+      216,
+      186,
+      236,
+      4,
+      236
+    ],
+    "text": "2x x Bhumi #15926 ND",
+    "words": [
+      {
+        "boundingBox": [
+          6,
+          220,
+          16,
+          220,
+          16,
+          236,
+          6,
+          236
+        ],
+        "text": "2x",
+        "confidence": 0.044
+      },
+      {
+        "boundingBox": [
+          19,
+          219,
+          29,
+          219,
+          29,
+          236,
+          19,
+          236
+        ],
+        "text": "x",
+        "confidence": 0.014
+      },
+      {
+        "boundingBox": [
+          40,
+          218,
+          107,
+          217,
+          107,
+          236,
+          39,
+          236
+        ],
+        "text": "Bhumi",
+        "confidence": 0.252
+      },
+      {
+        "boundingBox": [
+          118,
+          217,
+          168,
+          218,
+          167,
+          236,
+          118,
+          236
+        ],
+        "text": "#15926",
+        "confidence": 0.298
+      },
+      {
+        "boundingBox": [
+          171,
+          218,
+          187,
+          219,
+          186,
+          237,
+          170,
+          237
+        ],
+        "text": "ND",
+        "confidence": 0.445
+      }
+    ]
+  },
+  {
+    "boundingBox": [
+      7,
+      255,
+      195,
+      255,
+      195,
+      267,
+      7,
+      266
+    ],
+    "text": "DEPT WY DIST 1 2 . 4 TIMED F R.N NOSE-RE",
+    "words": [
+      {
+        "boundingBox": [
+          8,
+          257,
+          24,
+          257,
+          24,
+          266,
+          8,
+          265
+        ],
+        "text": "DEPT",
+        "confidence": 0.264
+      },
+      {
+        "boundingBox": [
+          26,
+          257,
+          35,
+          257,
+          35,
+          266,
+          26,
+          266
+        ],
+        "text": "WY",
+        "confidence": 0.273
+      },
+      {
+        "boundingBox": [
+          37,
+          257,
+          53,
+          257,
+          53,
+          266,
+          37,
+          266
+        ],
+        "text": "DIST",
+        "confidence": 0.694
+      },
+      {
+        "boundingBox": [
+          57,
+          257,
+          62,
+          256,
+          62,
+          266,
+          57,
+          266
+        ],
+        "text": "1",
+        "confidence": 0.487
+      },
+      {
+        "boundingBox": [
+          65,
+          256,
+          71,
+          256,
+          71,
+          266,
+          65,
+          266
+        ],
+        "text": "2",
+        "confidence": 0.432
+      },
+      {
+        "boundingBox": [
+          78,
+          256,
+          81,
+          256,
+          81,
+          266,
+          78,
+          266
+        ],
+        "text": ".",
+        "confidence": 0.005
+      },
+      {
+        "boundingBox": [
+          83,
+          256,
+          88,
+          256,
+          88,
+          266,
+          83,
+          266
+        ],
+        "text": "4",
+        "confidence": 0.727
+      },
+      {
+        "boundingBox": [
+          92,
+          256,
+          114,
+          256,
+          114,
+          267,
+          92,
+          266
+        ],
+        "text": "TIMED",
+        "confidence": 0.259
+      },
+      {
+        "boundingBox": [
+          118,
+          256,
+          123,
+          256,
+          123,
+          267,
+          118,
+          267
+        ],
+        "text": "F",
+        "confidence": 0.691
+      },
+      {
+        "boundingBox": [
+          127,
+          256,
+          141,
+          256,
+          141,
+          267,
+          127,
+          267
+        ],
+        "text": "R.N",
+        "confidence": 0.252
+      },
+      {
+        "boundingBox": [
+          155,
+          256,
+          183,
+          256,
+          183,
+          267,
+          155,
+          267
+        ],
+        "text": "NOSE-RE",
+        "confidence": 0.271
+      }
+    ]
+  }
+]

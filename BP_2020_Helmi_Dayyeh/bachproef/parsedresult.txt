@@ -1,0 +1,31 @@
+LINA CRUZ
+
+ 'LINA'  detected with a confidence level of [0.909]
+ 'CRUZ'  detected with a confidence level of [0.762]
+
+tramadol + Paracetamol tab
+
+ 'tramadol'  detected with a confidence level of [0.252]
+ '+'  detected with a confidence level of [0.82]
+ 'Paracetamol'  detected with a confidence level of [0.482]
+ 'tab'  detected with a confidence level of [0.721]
+
+# 20
+
+ '#'  detected with a confidence level of [0.851]
+ '20'  detected with a confidence level of [0.958]
+
+Sig. I fab every 6 hours
+
+ 'Sig.'  detected with a confidence level of [0.487]
+ 'I'  detected with a confidence level of [0.487]
+ 'fab'  detected with a confidence level of [0.57]
+ 'every'  detected with a confidence level of [0.252]
+ '6'  detected with a confidence level of [0.551]
+ 'hours'  detected with a confidence level of [0.42]
+ 
+ PTR : 49049095
+
+ 'PTR'  detected with a confidence level of [0.391]
+ ':'  detected with a confidence level of [0.671]
+ '49049095'  detected with a confidence level of [0.481]

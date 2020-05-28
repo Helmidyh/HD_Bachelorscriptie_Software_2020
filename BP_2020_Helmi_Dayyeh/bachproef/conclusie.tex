@@ -1,0 +1,39 @@
+%%=============================================================================
+%% Conclusie
+%%=============================================================================
+
+\chapter{Conclusie}
+\label{ch:conclusie}
+
+% TODO: Trek een duidelijke conclusie, in de vorm van een antwoord op de
+% onderzoeksvra(a)g(en). Wat was jouw bijdrage aan het onderzoeksdomein en
+% hoe biedt dit meerwaarde aan het vakgebied/doelgroep? 
+% Reflecteer kritisch over het resultaat. In Engelse teksten wordt deze sectie
+% ``Discussion'' genoemd. Had je deze uitkomst verwacht? Zijn er zaken die nog
+% niet duidelijk zijn?
+% Heeft het onderzoek geleid tot nieuwe vragen die uitnodigen tot verder 
+%onderzoek?
+Bij aanvang van deze studie werden de limitaties van handschriftherkenning op de proef gesteld. Hiermee kwam de CM initieel met de vraag of dergelijke software instaat was om handgeschreven teksten van een doktersbriefje te extraheren. Uit de voorgaande literatuurstudie bleek dat Cloud Computing de laatste nieuwe trend is in de wereld van AI en Machine Learning. Door het gebruik van de Cloud, werd de nood aan confidentiële trainingsdata en opzet van een specifiek ML model, geëlimineerd. 
+
+Het is ook echter nog op te merken dat de extracties en test cases uitgevoerd werden op engelse teksten. Hier werd bewust voor gekozen aangezien de Computer Vision API enkel Engel en Spaans ondersteund voor handschriftherkenning. Dit zou naargelang de evolutie van Azure Cognitive Services veranderen. De mogelijkheid voor handgeschrift in het Nederlands bestaat echter wel zoals gezien bij het onderzoek van Vectr. Consulting. Hierbij verkregen zij een vooraf gelabelde dataset door hun samenwerking met het Vlaams Agentschap Zorg \& Gezondheid. 
+
+
+
+Hierbij werd de Computer Vision API van Microsoft Azure tewerkgesteld om een “proof of concept” applicatie op te zetten. Uit de resulterende extracties bleek dat een doktersbriefje voor gemiddeld 62\% gelijk gesteld werd aan de menselijke interpretaties. Daarnaast bleek de API weinig tot geen problemen te hebben bij het herkennen van medische terminologie. Deze ondervinding stelt wel degelijk voor dat rekening gehouden werd met een medisch doelpubliek naargelang training van het model. 
+
+Naast een generieke extractie uit te voeren om vast te stellen dat de API wel degelijk capabel is voor productiedoeleinden, kwamen enkele deelvragen naar boven die mogelijks invloed konden hebben op het gehele resultaat. Hierbij werden mogelijkse limitaties op proef gesteld, waaronder de invloed van kwaliteit en uiterlijk op het extractie resultaat. Een doktersbriefje met een verlaagde resolutie toonde wel degelijk een verschil aan in resultaat. Om de verdere evolutie van dit fenomeen vast te stellen, zou een apart onderzoek naar de invloed van resolutie op afbeeldingen binnen Computer Vision, gestart moeten worden. 
+
+
+
+Verder werd eveneens de impact van het fysieke uiterlijk van het voorschrift en de positionering van de woorden getest. Bij het gebruik van drie verschillende types voorschriften, bleek een voorschrift met een ruimere spreiding van de woorden, een beter resultaat aan te tonen. Het is van zelfsprekend dat men dokters niet kan forceren omrekening te houden met deze spreiding, maar het is wel op te merken dat het helpt bij extractie. 
+
+
+
+Uiteindelijk kan men uit dit onderzoek concluderen dat handschriftherkenning wel degelijk een verschil kan maken bij het efficiënt en performant extraheren van doktersgeschrift. De CM zou hierbij een meerwaarde bekomen door de automatisering van dit proces. De conclusie van dit onderzoek werd enerzijds deels aangereikt in het onderzoek uitgevoerd door Vectr. Consulting. Het is wel degelijk mogelijk om dit proces doormiddel van AI te automatiseren, maar men heeft hier mogelijks de samenwerking met een derde partij voor nodig, aangezien data niet zomaar weg gegeven wordt. 
+
+
+
+
+
+Een generiek ML model zoals aangeboden door de Computer Vision API is dus wel degelijk instaat om een gelijkaardig resultaat te leveren als dat van een op maat gemaakt model. 
+

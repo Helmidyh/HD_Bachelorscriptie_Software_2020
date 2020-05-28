@@ -1,0 +1,261 @@
+% Encoding: UTF-8
+
+@Article{Tappert1990,
+  author = {Charles C. Tappert, Ching Y. Suen, Toru Wakahara},
+  title  = {The State of the Art in On-Line Handwriting Recognition},
+  year   = {1990},
+  file   = {:pdf's/1990PAMI.pdf:PDF},
+}
+
+@Article{NafizArica2001,
+  author = {Nafiz Arica, Fatos T. Yarman-Vural},
+  title  = {An Overview of Character Recognition Focused on Off-Line Handwriting},
+  year   = {2001},
+  file   = {:pdf's/An_overview_of_character_recognition_foc.pdf:PDF},
+}
+
+@Article{GergelyTimar2003,
+  author = {Gergely Timár, Kristóf Karacs and Csaba Rekeczky},
+  title  = {Analogic Preprocessing and Segmentation Algorithms for Off-line Handwriting Recognition},
+  year   = {2003},
+  file   = {:pdf's/Analogic Preprocessing voor offline rec.pdf:PDF},
+}
+
+@Article{Bunke1995,
+  author = {H. Bunke, M. Roth, E.G. Schukat-Talamazzini},
+  title  = {Off-line Cursive Handwriting Recognition using Hidden Markov Models},
+  year   = {1995},
+  file   = {:pdf's/Markov Models.pdf:PDF},
+}
+
+@Article{VijayLaxmiSahu2012,
+  author = {Vijay Laxmi Sahu, Babita Kubde},
+  title  = {Offline Handwritten Character Recognition Techniques using Neural Network: A Review},
+  year   = {2012},
+  file   = {:pdf's/Offline Handwritten Character Recognition_Vijay_Laxmi.pdf:PDF},
+}
+
+@Article{RejeanPlamondon2000,
+  author = {Réjean Plamondon, Sargur N. Srihari},
+  title  = {On-Line and Off-Line Handwriting Recognition: A Comprehensive Survey},
+  year   = {2000},
+  file   = {:pdf's/online vs offline.pdf:PDF},
+}
+
+@Article{Breithaupt2014,
+  author = {Michael Breithaupt},
+  title  = {Improving OCR and ICR AccuracyThrough Expert Voting},
+  year   = {2014},
+  file   = {:pdf's/wp_improving-ocr-and-icr.pdf:PDF},
+}
+
+@Article{Nagy1999,
+  author = {George Nagy, Thomas A. Nartker, Stephen V. Rice},
+  title  = {Optical Character Recognition: An illustrated guide to the frontier},
+  year   = {1999},
+  file   = {:pdf's/Optical_character_recognition_an_illustrated_guide.pdf:PDF},
+}
+
+@Article{NafizArica2002,
+  author = {Nafiz Arica, Fotas Tunay Yarman Vural},
+  title  = {Optical character recognition for cursive handwriting},
+  year   = {2002},
+  file   = {:pdf's/PAMI_2002.pdf:PDF},
+}
+
+@Article{Microsoft2020a,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/en-us/overview/},
+  title   = {Introduction to cloud computing},
+  year    = {2020},
+}
+
+@Article{ManishGodse2009,
+  author = {Manish Godse, Shrikant Mulik},
+  title  = {An Approach for Selecting Software-as-a-Service (SaaS) Product},
+  year   = {2009},
+  file   = {:pdf's/SaaS.pdf:PDF},
+}
+
+@Article{VaibhavAGhandi1999,
+  author = {Vaibhav A Ghandi, Dr C K Kumbharana},
+  title  = {Comparative study of Amazon EC2 andMicrosoft Azure cloud architecture},
+  year   = {1999},
+  file   = {:pdf's/Comparative_study_of_Amazon_EC2_and_Micr.pdf:PDF},
+}
+
+@Article{Wright2019,
+  author  = {Nicola Wright},
+  journal = {https://www.nigelfrank.com/blog/iaas-vs-saas-vs-paas-a-guide-to-azure-cloud-service-types/},
+  title   = {IaaS vs SaaS vs PaaS: A guide to Azure cloud service types},
+  year    = {2019},
+}
+
+@Article{Bhardwaj2010,
+  author = {Sushil Bhardwaj, Leena Jain, Sandeep Jain},
+  title  = {CLOUD COMPUTING: A STUDY OFINFRASTRUCTURE AS A SERVICE (IAAS)},
+  year   = {2010},
+  file   = {:pdf's/Cloud_computing_A_study_of_infrastructur.pdf:PDF},
+}
+
+@Article{Kapitanova2012,
+  author = {Krasimira Kapitanova and Sang H. Son},
+  title  = {Machine learning Basics},
+  year   = {2012},
+  file   = {:pdf's/w8_3.doc:Word},
+}
+
+@Article{Mathew2004,
+  author = {Sajee Mathew},
+  title  = {Overview of Amazon Web Services},
+  year   = {2004},
+  file   = {:pdf's/aws-overview.pdf:PDF},
+}
+
+@Article{Microsoft2020b,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/en-us/services/cognitive-services/},
+  title   = {What is cognitive services?},
+  year    = {2020},
+}
+
+@Article{Microsoft2020c,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/},
+  title   = {Computer Vision},
+  year    = {2020},
+}
+
+@Article{Microsoft2019,
+  author  = {Microsoft},
+  journal = {https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/concept-recognizing-text},
+  title   = {Recognize printed and handwritten text},
+  year    = {2019},
+}
+
+@Article{Google2020a,
+  author  = {Google},
+  journal = {https://cloud.google.com/about/locations},
+  title   = {Cloud locations},
+  year    = {2020},
+}
+
+@Article{Google2020b,
+  author  = {Google},
+  journal = {https://cloud.google.com/why-google-cloud},
+  title   = {Why Google cloud?},
+  year    = {2020},
+}
+
+@Article{Google2020c,
+  author  = {Google},
+  journal = {https://cloud.google.com/products/ai/},
+  title   = {AI and machine learning products},
+  year    = {2020},
+}
+
+@Article{Google2020d,
+  author  = {Google},
+  journal = {https://cloud.google.com/vision},
+  title   = {Vision AI},
+  year    = {2020},
+}
+
+@Article{Google2020e,
+  author  = {Google},
+  journal = {https://cloud.google.com/vision/docs/handwriting?apix_params=%7B%22resource%22%3A%7B%22requests%22%3A%5B%7B%22features%22%3A%5B%7B%22type%22%3A%22DOCUMENT_TEXT_DETECTION%22%7D%5D%2C%22image%22%3A%7B%22source%22%3A%7B%22imageUri%22%3A%22gs%3A%2F%2Fvision-api-handwriting-ocr-bucket%2Fhandwriting_image.png%22%7D%7D%7D%5D%7D%7D},
+  title   = {Detect handwriting in images},
+  year    = {2020},
+}
+
+@Article{Amazon2020a,
+  author  = {Amazon},
+  journal = {https://aws.amazon.com/rekognition/?nc2=h_ql_prod_ml_rek},
+  title   = {Amazon Rekognition},
+  year    = {2020},
+}
+
+@Article{Amazon2020b,
+  author  = {Amazon},
+  journal = {https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html},
+  title   = {What is Amazon Rekognition?},
+  year    = {2020},
+}
+
+@Article{Amazon2019,
+  author  = {Amazon},
+  journal = {https://docs.aws.amazon.com/rekognition/latest/dg/text-detecting-text-procedure.html},
+  title   = {Detecing Text in an Image},
+  year    = {2019},
+}
+
+@Article{Kumar2016,
+  author = {Sanjay Kumar, Narendra Sahu , Aakash Deep , Khushboo Gavel, Miss Rumi Ghosh},
+  title  = {Offline Handwriting Character Recognition (for use of medical purpose)Using Neural Network},
+  year   = {2016},
+  file   = {:pdf's/Offline Handwriting (for use of medical purpose).pdf:PDF},
+}
+
+@Article{SalimAlHabsib2019,
+  author = {Salim Al-Habsib, Asharul Islam Khan},
+  title  = {Machine Learning in Computer Vision},
+  year   = {2019},
+}
+
+@Article{Zhu2005,
+  author = {Xiaojin Zhu},
+  title  = {Semi-Supervised Learning Literature Survey},
+  year   = {2005},
+  file   = {:pdf's/Semi supervised learning literature.pdf:PDF},
+}
+
+@Article{Microsoft2020d,
+  author  = {Microsoft},
+  journal = {https://docs.microsoft.com/en-us/azure/machine-learning/concept-deep-learning-vs-machine-learning#deep-learning-machine-learning-and-ai},
+  title   = {Deep learning vs. machine learning},
+  year    = {2020},
+}
+
+@Article{Microsoft2020e,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/en-us/overview/what-is-machine-learning-platform/},
+  title   = {What is machine learning?},
+  year    = {2020},
+}
+
+@Article{Microsoft2020f,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/en-us/pricing/dev-test/},
+  title   = {Azure Dev/Test Pricing},
+  year    = {2020},
+}
+
+@Article{Microsoft2020g,
+  author  = {Microsoft},
+  journal = {https://azure.microsoft.com/nl-nl/pricing/details/cognitive-services/computer-vision/},
+  title   = {Prijsinformatie Cognitive Services - Computer Vision-API},
+  year    = {2020},
+}
+
+@Article{Microsoft2019a,
+  author  = {Microsoft},
+  journal = {https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/vision-api-how-to-topics/howtocallvisionapi},
+  title   = {Call the Computer Vision API},
+  year    = {2019},
+}
+
+@Article{Microsoft2020h,
+  author  = {Microsoft},
+  journal = {https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/quickstarts/csharp-hand-text?tabs=version-3},
+  title   = {Quickstart: Extract printed and handwritten text using the Computer Vision 2.0 and 2.1 REST API and C#},
+  year    = {2020},
+}
+
+@Article{Microsoft2019b,
+  author  = {Microsoft},
+  journal = {https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/language-support#text-recognition},
+  title   = {Language support for Computer Vision},
+  year    = {2019},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

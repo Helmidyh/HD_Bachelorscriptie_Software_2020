@@ -1,0 +1,100 @@
+Reynaldo O. Jason, MD, MHA, MHPEd, MSc Surg
+
+ 'Reynaldo'  detected with a confidence level of [0.252]
+ 'O.'  detected with a confidence level of [0.694]
+ 'Jason,'  detected with a confidence level of [0.348]
+ 'MD,'  detected with a confidence level of [0.849]
+ 'MHA,'  detected with a confidence level of [0.873]
+ 'MHPEd,'  detected with a confidence level of [0.847]
+ 'MSc'  detected with a confidence level of [0.852]
+ 'Surg'  detected with a confidence level of [0.799]
+
+MANILA DOCTORS HOSPITAL
+
+ 'MANILA'  detected with a confidence level of [0.959]
+ 'DOCTORS'  detected with a confidence level of [0.848]
+ 'HOSPITAL'  detected with a confidence level of [0.959]
+
+Suite 301, DSMT MAC, U.N. Avenue Ermita, Manila
+
+ 'Suite'  detected with a confidence level of [0.57]
+ '301,'  detected with a confidence level of [0.933]
+ 'DSMT'  detected with a confidence level of [0.958]
+ 'MAC,'  detected with a confidence level of [0.858]
+ 'U.N.'  detected with a confidence level of [0.909]
+ 'Avenue'  detected with a confidence level of [0.951]
+ 'Ermita,'  detected with a confidence level of [0.929]
+ 'Manila'  detected with a confidence level of [0.57]
+
+522-47-13; 558-08-88 Loc 4100 ; 0918.804.0304
+
+ '522-47-13;'  detected with a confidence level of [0.847]
+ '558-08-88'  detected with a confidence level of [0.8]
+ 'Loc'  detected with a confidence level of [0.909]
+ '4100'  detected with a confidence level of [0.947]
+ ';'  detected with a confidence level of [0.764]
+ '0918.804.0304'  detected with a confidence level of [0.896]
+
+rojosonmedclinic@gmail.com ; rjoson2001@yahoo.com
+
+ 'rojosonmedclinic@gmail.com'  detected with a confidence level of [0.799]
+ ';'  detected with a confidence level of [0.799]
+ 'rjoson2001@yahoo.com'  detected with a confidence level of [0.841]
+
+https://sites.google.com/site/rojosonmedicalclinic
+
+ 'https://sites.google.com/site/rojosonmedicalclinic'  detected with a confidence level of [0.448]
+
+LINA CRUZ
+
+ 'LINA'  detected with a confidence level of [0.909]
+ 'CRUZ'  detected with a confidence level of [0.762]
+
+Date:
+
+ 'Date:'  detected with a confidence level of [0.908]
+
+1- 24 20 17
+
+ '1-'  detected with a confidence level of [0.7]
+ '24'  detected with a confidence level of [0.945]
+ '20'  detected with a confidence level of [0.849]
+ '17'  detected with a confidence level of [0.252]
+
+tramadol + Paracetamol tab
+
+ 'tramadol'  detected with a confidence level of [0.328]
+ '+'  detected with a confidence level of [0.822]
+ 'Paracetamol'  detected with a confidence level of [0.463]
+ 'tab'  detected with a confidence level of [0.655]
+
+- #20
+
+ '-'  detected with a confidence level of [0.799]
+ '#20'  detected with a confidence level of [0.818]
+
+Sig. I fab every 6 hours
+
+ 'Sig.'  detected with a confidence level of [0.487]
+ 'I'  detected with a confidence level of [0.487]
+ 'fab'  detected with a confidence level of [0.57]
+ 'every'  detected with a confidence level of [0.252]
+ '6'  detected with a confidence level of [0.57]
+ 'hours'  detected with a confidence level of [0.324]
+
+PTR : 49049095
+
+ 'PTR'  detected with a confidence level of [0.391]
+ ':'  detected with a confidence level of [0.671]
+ '49049095'  detected with a confidence level of [0.481]
+
+,M.D.
+
+ ',M.D.'  detected with a confidence level of [0.458]
+
+Lic. # 44609
+
+ 'Lic.'  detected with a confidence level of [0.913]
+ '#'  detected with a confidence level of [0.895]
+ '44609'  detected with a confidence level of [0.956]
+

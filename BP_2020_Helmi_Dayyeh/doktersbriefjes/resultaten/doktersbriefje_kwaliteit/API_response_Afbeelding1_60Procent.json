@@ -1,0 +1,997 @@
+[
+	{
+		"boundingBox": [
+			25,
+			32,
+			591,
+			32,
+			591,
+			63,
+			25,
+			67
+		],
+		"text": "Reynaldo O. Jason, MD, MHA, MHPEd, MSc Surg",
+		"words": [
+			{
+				"boundingBox": [
+					32,
+					33,
+					157,
+					33,
+					157,
+					67,
+					31,
+					68
+				],
+				"text": "Reynaldo",
+				"confidence": 0.252
+			},
+			{
+				"boundingBox": [
+					164,
+					33,
+					191,
+					33,
+					191,
+					67,
+					164,
+					67
+				],
+				"text": "O.",
+				"confidence": 0.707
+			},
+			{
+				"boundingBox": [
+					198,
+					33,
+					281,
+					33,
+					281,
+					66,
+					198,
+					67
+				],
+				"text": "Jason,",
+				"confidence": 0.344
+			},
+			{
+				"boundingBox": [
+					287,
+					33,
+					329,
+					33,
+					329,
+					65,
+					287,
+					66
+				],
+				"text": "MD,",
+				"confidence": 0.849
+			},
+			{
+				"boundingBox": [
+					335,
+					33,
+					390,
+					33,
+					390,
+					64,
+					335,
+					65
+				],
+				"text": "MHA,",
+				"confidence": 0.849
+			},
+			{
+				"boundingBox": [
+					397,
+					33,
+					479,
+					34,
+					479,
+					62,
+					397,
+					64
+				],
+				"text": "MHPEd,",
+				"confidence": 0.88
+			},
+			{
+				"boundingBox": [
+					486,
+					34,
+					527,
+					34,
+					527,
+					61,
+					486,
+					62
+				],
+				"text": "MSc",
+				"confidence": 0.847
+			},
+			{
+				"boundingBox": [
+					534,
+					34,
+					590,
+					34,
+					590,
+					59,
+					534,
+					61
+				],
+				"text": "Surg",
+				"confidence": 0.762
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			185,
+			71,
+			426,
+			70,
+			426,
+			88,
+			185,
+			90
+		],
+		"text": "MANILA DOCTORS HOSPITAL",
+		"words": [
+			{
+				"boundingBox": [
+					189,
+					73,
+					253,
+					72,
+					253,
+					90,
+					189,
+					89
+				],
+				"text": "MANILA",
+				"confidence": 0.959
+			},
+			{
+				"boundingBox": [
+					258,
+					72,
+					339,
+					71,
+					339,
+					90,
+					258,
+					90
+				],
+				"text": "DOCTORS",
+				"confidence": 0.752
+			},
+			{
+				"boundingBox": [
+					343,
+					71,
+					425,
+					70,
+					425,
+					88,
+					343,
+					90
+				],
+				"text": "HOSPITAL",
+				"confidence": 0.959
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			126,
+			94,
+			489,
+			90,
+			489,
+			107,
+			126,
+			111
+		],
+		"text": "Suite 301, DSMT MAC, U.N. Avenue Ermita, Manila",
+		"words": [
+			{
+				"boundingBox": [
+					127,
+					95,
+					165,
+					95,
+					165,
+					111,
+					127,
+					111
+				],
+				"text": "Suite",
+				"confidence": 0.346
+			},
+			{
+				"boundingBox": [
+					168,
+					94,
+					199,
+					94,
+					199,
+					111,
+					168,
+					111
+				],
+				"text": "301,",
+				"confidence": 0.888
+			},
+			{
+				"boundingBox": [
+					202,
+					94,
+					248,
+					93,
+					248,
+					110,
+					203,
+					111
+				],
+				"text": "DSMT",
+				"confidence": 0.95
+			},
+			{
+				"boundingBox": [
+					251,
+					93,
+					291,
+					93,
+					291,
+					110,
+					251,
+					110
+				],
+				"text": "MAC,",
+				"confidence": 0.843
+			},
+			{
+				"boundingBox": [
+					294,
+					93,
+					326,
+					92,
+					327,
+					109,
+					294,
+					110
+				],
+				"text": "U.N.",
+				"confidence": 0.923
+			},
+			{
+				"boundingBox": [
+					330,
+					92,
+					383,
+					91,
+					383,
+					109,
+					330,
+					109
+				],
+				"text": "Avenue",
+				"confidence": 0.95
+			},
+			{
+				"boundingBox": [
+					386,
+					91,
+					438,
+					91,
+					438,
+					108,
+					387,
+					109
+				],
+				"text": "Ermita,",
+				"confidence": 0.885
+			},
+			{
+				"boundingBox": [
+					441,
+					91,
+					489,
+					90,
+					489,
+					107,
+					441,
+					108
+				],
+				"text": "Manila",
+				"confidence": 0.637
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			133,
+			113,
+			481,
+			109,
+			481,
+			127,
+			133,
+			130
+		],
+		"text": "522-47-13; 558-08-BB Loc 4100 ; 0918.804.0304",
+		"words": [
+			{
+				"boundingBox": [
+					135,
+					114,
+					212,
+					113,
+					212,
+					130,
+					135,
+					130
+				],
+				"text": "522-47-13;",
+				"confidence": 0.799
+			},
+			{
+				"boundingBox": [
+					216,
+					113,
+					289,
+					112,
+					289,
+					130,
+					216,
+					130
+				],
+				"text": "558-08-BB",
+				"confidence": 0.362
+			},
+			{
+				"boundingBox": [
+					292,
+					112,
+					319,
+					112,
+					319,
+					129,
+					292,
+					130
+				],
+				"text": "Loc",
+				"confidence": 0.908
+			},
+			{
+				"boundingBox": [
+					322,
+					112,
+					357,
+					112,
+					358,
+					129,
+					322,
+					129
+				],
+				"text": "4100",
+				"confidence": 0.949
+			},
+			{
+				"boundingBox": [
+					360,
+					112,
+					371,
+					111,
+					372,
+					128,
+					361,
+					129
+				],
+				"text": ";",
+				"confidence": 0.57
+			},
+			{
+				"boundingBox": [
+					374,
+					111,
+					480,
+					110,
+					481,
+					126,
+					375,
+					128
+				],
+				"text": "0918.804.0304",
+				"confidence": 0.865
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			112,
+			134,
+			504,
+			129,
+			504,
+			147,
+			112,
+			152
+		],
+		"text": "rojosonmedclinic@gmail.com ; rjoson2001@yahoo.com",
+		"words": [
+			{
+				"boundingBox": [
+					113,
+					135,
+					316,
+					132,
+					316,
+					150,
+					113,
+					152
+				],
+				"text": "rojosonmedclinic@gmail.com",
+				"confidence": 0.731
+			},
+			{
+				"boundingBox": [
+					320,
+					132,
+					327,
+					132,
+					327,
+					150,
+					320,
+					150
+				],
+				"text": ";",
+				"confidence": 0.435
+			},
+			{
+				"boundingBox": [
+					330,
+					132,
+					499,
+					130,
+					500,
+					147,
+					330,
+					150
+				],
+				"text": "rjoson2001@yahoo.com",
+				"confidence": 0.859
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			134,
+			154,
+			479,
+			149,
+			479,
+			166,
+			134,
+			171
+		],
+		"text": "https://sites.google.com/site/rojosonmedicalclinic",
+		"words": [
+			{
+				"boundingBox": [
+					136,
+					154,
+					479,
+					149,
+					479,
+					166,
+					135,
+					170
+				],
+				"text": "https://sites.google.com/site/rojosonmedicalclinic",
+				"confidence": 0.448
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			45,
+			193,
+			269,
+			188,
+			269,
+			216,
+			45,
+			221
+		],
+		"text": "LINA CRUZ",
+		"words": [
+			{
+				"boundingBox": [
+					47,
+					193,
+					141,
+					191,
+					140,
+					220,
+					47,
+					222
+				],
+				"text": "LINA",
+				"confidence": 0.939
+			},
+			{
+				"boundingBox": [
+					173,
+					191,
+					265,
+					188,
+					264,
+					217,
+					173,
+					219
+				],
+				"text": "CRUZ",
+				"confidence": 0.762
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			379,
+			197,
+			420,
+			199,
+			420,
+			213,
+			378,
+			213
+		],
+		"text": "Date:",
+		"words": [
+			{
+				"boundingBox": [
+					380,
+					197,
+					420,
+					198,
+					419,
+					214,
+					379,
+					213
+				],
+				"text": "Date:",
+				"confidence": 0.849
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			433,
+			177,
+			597,
+			177,
+			596,
+			215,
+			433,
+			213
+		],
+		"text": "1- 24 20 17",
+		"words": [
+			{
+				"boundingBox": [
+					435,
+					177,
+					466,
+					178,
+					466,
+					213,
+					435,
+					211
+				],
+				"text": "1-",
+				"confidence": 0.694
+			},
+			{
+				"boundingBox": [
+					473,
+					178,
+					520,
+					178,
+					519,
+					215,
+					472,
+					213
+				],
+				"text": "24",
+				"confidence": 0.959
+			},
+			{
+				"boundingBox": [
+					531,
+					178,
+					551,
+					178,
+					550,
+					216,
+					530,
+					215
+				],
+				"text": "20",
+				"confidence": 0.799
+			},
+			{
+				"boundingBox": [
+					557,
+					178,
+					596,
+					178,
+					596,
+					216,
+					557,
+					216
+				],
+				"text": "17",
+				"confidence": 0.252
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			66,
+			313,
+			530,
+			287,
+			533,
+			331,
+			67,
+			353
+		],
+		"text": "Tramadol + Paracetamol tab",
+		"words": [
+			{
+				"boundingBox": [
+					67,
+					315,
+					235,
+					307,
+					237,
+					348,
+					69,
+					353
+				],
+				"text": "Tramadol",
+				"confidence": 0.286
+			},
+			{
+				"boundingBox": [
+					255,
+					305,
+					275,
+					304,
+					277,
+					346,
+					257,
+					347
+				],
+				"text": "+",
+				"confidence": 0.836
+			},
+			{
+				"boundingBox": [
+					283,
+					304,
+					473,
+					291,
+					476,
+					334,
+					285,
+					346
+				],
+				"text": "Paracetamol",
+				"confidence": 0.471
+			},
+			{
+				"boundingBox": [
+					481,
+					291,
+					530,
+					287,
+					532,
+					330,
+					483,
+					333
+				],
+				"text": "tab",
+				"confidence": 0.625
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			501,
+			354,
+			579,
+			357,
+			577,
+			388,
+			500,
+			385
+		],
+		"text": "# 20",
+		"words": [
+			{
+				"boundingBox": [
+					510,
+					354,
+					531,
+					355,
+					530,
+					386,
+					509,
+					385
+				],
+				"text": "#",
+				"confidence": 0.799
+			},
+			{
+				"boundingBox": [
+					537,
+					355,
+					577,
+					357,
+					576,
+					388,
+					536,
+					386
+				],
+				"text": "20",
+				"confidence": 0.947
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			63,
+			479,
+			552,
+			458,
+			553,
+			499,
+			63,
+			526
+		],
+		"text": "Sig. I fab every 6 hours",
+		"words": [
+			{
+				"boundingBox": [
+					73,
+					479,
+					156,
+					474,
+					152,
+					519,
+					68,
+					526
+				],
+				"text": "Sig.",
+				"confidence": 0.276
+			},
+			{
+				"boundingBox": [
+					165,
+					474,
+					196,
+					472,
+					193,
+					516,
+					161,
+					519
+				],
+				"text": "I",
+				"confidence": 0.41
+			},
+			{
+				"boundingBox": [
+					212,
+					471,
+					280,
+					468,
+					277,
+					510,
+					208,
+					515
+				],
+				"text": "fab",
+				"confidence": 0.57
+			},
+			{
+				"boundingBox": [
+					289,
+					467,
+					398,
+					463,
+					395,
+					504,
+					286,
+					510
+				],
+				"text": "every",
+				"confidence": 0.252
+			},
+			{
+				"boundingBox": [
+					407,
+					463,
+					438,
+					462,
+					436,
+					502,
+					405,
+					503
+				],
+				"text": "6",
+				"confidence": 0.436
+			},
+			{
+				"boundingBox": [
+					448,
+					461,
+					552,
+					459,
+					550,
+					497,
+					445,
+					501
+				],
+				"text": "hours",
+				"confidence": 0.415
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			38,
+			846,
+			281,
+			840,
+			282,
+			875,
+			38,
+			882
+		],
+		"text": "PTK : 49049095",
+		"words": [
+			{
+				"boundingBox": [
+					39,
+					846,
+					94,
+					845,
+					94,
+					881,
+					38,
+					882
+				],
+				"text": "PTK",
+				"confidence": 0.603
+			},
+			{
+				"boundingBox": [
+					101,
+					845,
+					118,
+					845,
+					117,
+					880,
+					101,
+					881
+				],
+				"text": ":",
+				"confidence": 0.697
+			},
+			{
+				"boundingBox": [
+					125,
+					844,
+					275,
+					840,
+					276,
+					875,
+					124,
+					880
+				],
+				"text": "49049095",
+				"confidence": 0.442
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			553,
+			915,
+			597,
+			913,
+			597,
+			930,
+			553,
+			931
+		],
+		"text": ",M.D.",
+		"words": [
+			{
+				"boundingBox": [
+					553,
+					914,
+					595,
+					913,
+					596,
+					930,
+					553,
+					931
+				],
+				"text": ",M.D.",
+				"confidence": 0.487
+			}
+		]
+	},
+	{
+		"boundingBox": [
+			335,
+			940,
+			423,
+			940,
+			424,
+			957,
+			335,
+			959
+		],
+		"text": "Lic. # 44609",
+		"words": [
+			{
+				"boundingBox": [
+					336,
+					941,
+					364,
+					941,
+					364,
+					959,
+					337,
+					959
+				],
+				"text": "Lic.",
+				"confidence": 0.835
+			},
+			{
+				"boundingBox": [
+					368,
+					941,
+					377,
+					941,
+					378,
+					959,
+					368,
+					959
+				],
+				"text": "#",
+				"confidence": 0.895
+			},
+			{
+				"boundingBox": [
+					381,
+					941,
+					424,
+					940,
+					424,
+					958,
+					381,
+					958
+				],
+				"text": "44609",
+				"confidence": 0.959
+			}
+		]
+	}
+]

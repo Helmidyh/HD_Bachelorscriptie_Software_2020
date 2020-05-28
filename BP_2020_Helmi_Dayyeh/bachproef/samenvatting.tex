@@ -1,0 +1,64 @@
+%%=============================================================================
+%% Samenvatting
+%%=============================================================================
+
+% TODO: De "abstract" of samenvatting is een kernachtige (~ 1 blz. voor een
+% thesis) synthese van het document.
+%
+% Deze aspecten moeten zeker aan bod komen:
+% - Context: waarom is dit werk belangrijk?
+% - Nood: waarom moest dit onderzocht worden?
+% - Taak: wat heb je precies gedaan?
+% - Object: wat staat in dit document geschreven?
+% - Resultaat: wat was het resultaat?
+% - Conclusie: wat is/zijn de belangrijkste conclusie(s)?
+% - Perspectief: blijven er nog vragen open die in de toekomst nog kunnen
+%    onderzocht worden? Wat is een mogelijk vervolg voor jouw onderzoek?
+%
+% LET OP! Een samenvatting is GEEN voorwoord!
+
+%%---------- Nederlandse samenvatting -----------------------------------------
+%
+% TODO: Als je je bachelorproef in het Engels schrijft, moet je eerst een
+% Nederlandse samenvatting invoegen. Haal daarvoor onderstaande code uit
+% commentaar.
+% Wie zijn bachelorproef in het Nederlands schrijft, kan dit negeren, de inhoud
+% wordt niet in het document ingevoegd.
+
+\IfLanguageName{english}{%
+\selectlanguage{dutch}
+\chapter*{Samenvatting}
+\lipsum[1-4]
+\selectlanguage{english}
+}{}
+
+%%---------- Samenvatting -----------------------------------------------------
+% De samenvatting in de hoofdtaal van het document
+
+\chapter*{\IfLanguageName{dutch}{Samenvatting}{Abstract}}
+
+In dit onderzoek werd er gekeken naar de limitaties van handschriftherkenning. Hierbij werd de vraag gesteld of door wijze van handschriftherkenning de Christelijke Mutualiteit een meerwaarde zou zien bij het lezen van doktersvoorschriften. Met de evoluerende opkomst van Artificiële intelligentie, zijn zaken waar vroeger fysieke werkkrachten voor ingezet werden, in een handgreep geautomatiseerd. Hierdoor wordt de nood aan extra kosten binnen een bedrijf geëlimineerd. Bovendien zijn mensen gekend om fouten te maken en kan dit een negatieve invloed op de workflow binnen het bedrijf veroorzaken. 
+
+
+
+De eerste taak bij dit onderzoek was de nood aan een literatuurstudie. Hierbij werd tot in detail beschreven wat de evolutie in het domein van handschriftherkenning doorheen de jaren ondergaan heeft en waar onderzoek in dit domein hedendaags toe gekomen is. 
+
+
+
+De literatuurstudie bracht ons tot enkele cruciale ondervindingen. Om mogelijks een conclusie te trekken uit deze onderzoeksvraag, zou in de eerste plaats een Machine Learning model nodig zijn, dat getraind is op de voorspelling van medische terminologie. Na enig opzoekwerk, bleek dat het verzamelen van de data nodig voor dit model, een probleem zou vormen. Doktersvoorschriften worden als een confidentiële vorm van data beschouwd binnen dit domein en worden niet zomaar vrijgegeven. Een op maat gemaakt model bleek dus geen mogelijkheid te zijn voor dit onderzoek.  
+
+
+
+Hierbij kwam het idee om gebruik te maken van Cloud Computing, men zou dan gebruik maken van een voorgetraind model dat aangeboden werd door een derde partij. Naar aanleiding van de stage, werd gekozen om gebruik te maken van de oplossingen die Microsoft te bieden heeft. Meer bepaald de Azure Computer Vision service. Met een instantie van deze service kan men eenvoudige API requests versturen die vervolgens een doeltreffend resultaat leverden door de Cloud in de achtergrond het werk te laten uitvoeren.  
+
+
+
+Om dit tenslotte op de proef te stellen, werden enkele test cases opgezet, waarbij verscheidene obstakels die zouden kunnen voorkomen, getest werden. Enerzijds werd hiervoor gebruik gemaakt van een test groep. Aan deze testgroep werden enkele doktersvoorschriften voorgesteld en werd gevraagd deze zo accuraat mogelijk te interpreteren. Vervolgens werd deze interpretatie vergeleken met de resulterende data van de API. Men kon hierdoor nagaan of artificiële intelligentie bepaalde woorden beter zou kunnen voorspellen dan mensen. 
+
+
+
+De accuraatheid hiervan werd deels ook op de proef gesteld door testen uit te voeren met een verlaagde resolutie en variërende positionering van personengegevens. Uit deze testen kon men concluderen dat doktersgeschrift wel degelijk met een relatief hoge accuraatheid en snelheid geëxtraheerd kon worden van voorschriften.  
+
+
+
+Dit proces zou op eenvoudige wijze in een productieomgeving ingezet kunnen worden, waardoor de Christelijke Mutualiteit een meerwaarde zou zien in processnelheid en accuraatheid. Aangezien dit onderzoek gebruik maakte van Engelse voorschriften, zou met verder onderzoek naar de extractie van Nederlandse voorschriften, een volledigere conclusie getrokken kunnen worden. 

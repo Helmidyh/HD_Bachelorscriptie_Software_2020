@@ -1,0 +1,76 @@
+
+
+MIDTOWN PARK PHARMACY
+
+ 'MIDTOWN'  detected with a confidence level of [0.918]
+ 'PARK'  detected with a confidence level of [0.958]
+ 'PHARMACY'  detected with a confidence level of [0.958]
+
+FABVIEW, TEXAS
+
+ 'FABVIEW,'  detected with a confidence level of [0.252]
+ 'TEXAS'  detected with a confidence level of [0.27]
+
+MC, ). Pang
+
+ 'MC,'  detected with a confidence level of [0.489]
+ ').'  detected with a confidence level of [0.397]
+ 'Pang'  detected with a confidence level of [0.401]
+
+Achinese 125 Crack
+
+ 'Achinese'  detected with a confidence level of [0.252]
+ '125'  detected with a confidence level of [0.441]
+ 'Crack'  detected with a confidence level of [0.252]
+
+R
+
+ 'R'  detected with a confidence level of [0.799]
+
+Stilleshot 25 mg
+
+ 'Stilleshot'  detected with a confidence level of [0.28]
+ '25'  detected with a confidence level of [0.841]
+ 'mg'  detected with a confidence level of [0.816]
+
+( milestial )
+
+ '('  detected with a confidence level of [0.488]
+ 'milestial'  detected with a confidence level of [0.637]
+ ')'  detected with a confidence level of [0.799]
+
+Sig: 194n, for 8 days
+
+ 'Sig:'  detected with a confidence level of [0.469]
+ '194n,'  detected with a confidence level of [0.393]
+ 'for'  detected with a confidence level of [0.57]
+ '8'  detected with a confidence level of [0.855]
+ 'days'  detected with a confidence level of [0.431]
+
+then US
+
+ 'then'  detected with a confidence level of [0.762]
+ 'US'  detected with a confidence level of [0.359]
+
+2x x Bhumi #15926 ND
+
+ '2x'  detected with a confidence level of [0.044]
+ 'x'  detected with a confidence level of [0.014]
+ 'Bhumi'  detected with a confidence level of [0.252]
+ '#15926'  detected with a confidence level of [0.298]
+ 'ND'  detected with a confidence level of [0.445]
+
+DEPT WY DIST 1 2 . 4 TIMED F R.N NOSE-RE
+
+ 'DEPT'  detected with a confidence level of [0.264]
+ 'WY'  detected with a confidence level of [0.273]
+ 'DIST'  detected with a confidence level of [0.694]
+ '1'  detected with a confidence level of [0.487]
+ '2'  detected with a confidence level of [0.432]
+ '.'  detected with a confidence level of [0.005]
+ '4'  detected with a confidence level of [0.727]
+ 'TIMED'  detected with a confidence level of [0.259]
+ 'F'  detected with a confidence level of [0.691]
+ 'R.N'  detected with a confidence level of [0.252]
+ 'NOSE-RE'  detected with a confidence level of [0.271]
+

@@ -1,0 +1,19 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'bachproef-tin.blg'
+[70] biber-MSWIN64:322> INFO - === 
+[122] Biber.pm:415> INFO - Reading 'bachproef-tin.bcf'
+[241] Biber.pm:943> INFO - Found 38 citekeys in bib section 0
+[258] Biber.pm:4256> INFO - Processing section 0
+[260] Utils.pm:75> INFO - Globbing data source 'nieuweBibFile.bib'
+[292] Utils.pm:91> INFO - Globbed data source 'nieuweBibFile.bib' to nieuweBibFile.bib
+[292] Utils.pm:75> INFO - Globbing data source '../voorstel/voorstel.bib'
+[292] Utils.pm:91> INFO - Globbed data source '../voorstel/voorstel.bib' to ../voorstel/voorstel.bib
+[318] Biber.pm:4455> INFO - Looking for bibtex format file 'nieuweBibFile.bib' for section 0
+[327] bibtex.pm:1653> INFO - LaTeX decoding ...
+[363] bibtex.pm:1471> INFO - Found BibTeX data source 'nieuweBibFile.bib'
+[563] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'variable = shifted' with 'variable = non-ignorable'
+[563] UCollate.pm:68> INFO - Overriding locale 'nl-NL' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[563] Biber.pm:4084> INFO - Sorting list 'apa/global//global/global' of type 'entry' with template 'apa' and locale 'nl-NL'
+[563] Biber.pm:4090> INFO - No sort tailoring available for locale 'nl-NL'
+[627] bbl.pm:652> INFO - Writing 'bachproef-tin.bbl' with encoding 'UTF-8'
+[644] bbl.pm:755> INFO - Output to bachproef-tin.bbl

@@ -1,0 +1,31 @@
+{
+	"boundingBox": [
+		65,
+		312,
+		529,
+		287,
+		532,
+		332,
+		67,
+		353
+	],
+	"text": "tramadol + Paracetamol tab",
+	"words": [
+		{
+			"text": "tramadol",
+			"confidence": 0.328
+		},
+		{
+			"text": "+",
+			"confidence": 0.822
+		},
+		{
+			"text": "Paracetamol",
+			"confidence": 0.463
+		},
+		{
+			"text": "tab",
+			"confidence": 0.655
+		}
+	]
+}

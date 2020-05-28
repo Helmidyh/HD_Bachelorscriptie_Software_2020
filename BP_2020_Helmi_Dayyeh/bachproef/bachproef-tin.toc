@@ -1,0 +1,143 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {dutch}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Inleiding}{15}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Probleemstelling}{16}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Onderzoeksvraag}{16}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{16}{section.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{17}{section.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Stand van zaken}{19}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Optical Character Recognition}{19}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Online vs. off-line recognition}{20}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.3}Off-line recognition}{21}{section.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.1}Preprocessing}{22}{subsection.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.2}Letter segmentation}{22}{subsection.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3.3}Feature extraction \& Recognition}{24}{subsection.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.4}Machine Learning (ML)}{25}{section.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4.1}Neurale netwerken}{25}{subsection.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Feedforward neuraal netwerk (FNN)}{25}{section*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Recurrent neuraal netwerk (RNN)}{26}{section*.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{Convolutioneel neuraal netwerk (CNN)}{26}{section*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.5}Cloud computing providers}{26}{section.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.6}Microsoft Azure}{27}{section.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.1}Software as a Service (SaaS)}{27}{subsection.2.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.2}Platform as a Service (PaaS)}{27}{subsection.2.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6.3}Infrastructure as a Service (IaaS)}{27}{subsection.2.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.7}Azure Cognitive Services}{28}{section.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.8}Azure Computer Vision framework}{29}{section.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.1}Read API}{29}{subsection.2.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.2}OCR API}{29}{subsection.2.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.8.3}Recognize text API}{30}{subsection.2.8.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.9}Google Cloud Platform (GCP)}{30}{section.2.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.9.1}Cloud Vision API}{32}{subsection.2.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.10}Amazon Web Services (AWS)}{32}{section.2.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.10.1}Amazon Rekognition}{33}{subsection.2.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.11}Eerder uitgevoerd onderzoek}{34}{section.2.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Methodologie}{35}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.1}Gebruikte technologie}{36}{subsection.3.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.2}Test cases}{36}{subsection.3.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.0.3}Resultaten}{36}{subsection.3.0.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Cognitive services computer vision}{37}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.1}Opzet API}{37}{subsection.4.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.2}Het gebruiken van de API}{41}{subsection.4.0.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.3}Authenticatie}{42}{subsection.4.0.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.4}Opbouwen van een request}{42}{subsection.4.0.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.5}Versturen van een request}{43}{subsection.4.0.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.6}Response}{44}{subsection.4.0.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.0.7}Conclusie}{48}{subsection.4.0.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Test cases}{49}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Test Case 1}{50}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1}Opzet}{50}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2}Doktersbriefje verlaagde kwaliteit resultaat}{50}{subsection.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Test Case 2}{52}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1}Opzet}{52}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2}Doktersbriefje 1 resultaat}{53}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3}Doktersbriefje 2 resultaat}{55}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4}Doktersbriefje 3 resultaat}{57}{subsection.5.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.5}Doktersbriefje 4 resultaat}{59}{subsection.5.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Test Case 3}{61}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Opzet}{61}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Doktersbriefje 5 resultaat}{61}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Resultaten}{63}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Test cases}{63}{subsection.5.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Herkenningsgraad}{64}{subsection.5.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5}Conclusie}{65}{section.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Conclusie}{67}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{69}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}Introductie}{69}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{70}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}Methodologie}{70}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{70}{section.A.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{70}{section.A.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.6}Referenties}{71}{section.A.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Bibliografie}{73}{appendix*.36}%
+\contentsfinish 

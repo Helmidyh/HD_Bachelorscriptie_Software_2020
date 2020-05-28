@@ -1,0 +1,52 @@
+%%=============================================================================
+%% Inleiding
+%%=============================================================================
+
+\chapter{\IfLanguageName{dutch}{Inleiding}{Introduction}}
+\label{ch:inleiding}
+
+Integratie van artificiële intelligentie in alledaagse workflows is een trend die meer en meer uitgeoefend wordt. Met de opkomst van artificiële intelligentie kan men eenvoudige taken die fysieke werkkrachten vereisen automatiseren. Hierdoor besparen bedrijven de tijd en het budget dat kruipt in het aanwerven en uitbetalen van personeel. Bovendien ligt het aantal transacties dat dergelijke software kan verwerken veel hoger dan hetgeen dat menselijke intuïtie kan bereiken. De taken die hierbij geautomatiseerd kunnen variëren van spraakherkenning systemen met realtime transcriptie tot handschriftherkenning op postbrieven om zo het juiste adres te achterhalen. Het herkennen van handgeschreven karakters was één van de eerste toepassingen die met de opkomst van AI verwezenlijkt kon worden. Toepassingen zoals deze kunnen vandaag de dag al volledige handgeschreven documenten omzetten naar machinale tekst met behulp van een gepast machine learning framework.  
+
+Hieruit komt de Christelijke Mutualiteit met de vraag of men deze technologie kan gebruiken om het typische doktersgeschrift dat men terugvindt op voorschriften te achterhalen. Het is een typische gezegde dat het handgeschrift van dokters praktisch onleesbaar is en dit blijkt zo uit de vraag naar een oplossing hiervoor. 
+
+Er zijn verscheidene spelers op de markt wanneer het komt om een performant AI-systeem op te bouwen. Grote spelers zoals Microsoft en Google hebben hun eigen cloud architecturen die gebruik maken van de enorme hoeveelheid data die zij verzameld hebben door de jaren heen. Aangezien de accuraatheid van een AI-systeem gepaard gaat met de hoeveelheid data die gebruikt wordt voor training spreekt het van zichzelf dat Microsoft en Google marktleiders zijn in dit veld. Er zijn echter naast deze twee oplossingen ook nog open source toepassingen die niet onderschat mogen worden.  
+
+
+\section{\IfLanguageName{dutch}{Probleemstelling}{Problem Statement}}
+\label{sec:probleemstelling}
+
+In sommige gevallen kan het voorvallen dat wanneer men een voorschrift ingeeft bij de Christelijke Mutualiteit, het handgeschrift op dit voorschrift onleesbaar is. Dit vormt een probleem wanneer men medische kosten terug wil betalen. Het is duidelijk dat de tijd die de mensen gebruiken om dit handgeschrift te ontcijferen verloren gaat. Daarom zou een geautomatiseerd systeem dit probleem kunnen verminderen. Aangezien dit veld nog redelijk recent is, is het niet onrealistisch dat een foute voorspelling kan gebeuren. De meerderheid van deze systemen maken gebruik van recurrent neuraal netwerk, wat betekent dat het systeem foute voorspellingen onthoudt en zichzelf aanpast naargelang specifieke kenmerken terugkeren. Hierdoor kan het systeem zich specialiseren in een domein waar bv. veel medische termen terugkomen. 
+
+\section{\IfLanguageName{dutch}{Onderzoeksvraag}{Research question}}
+\label{sec:onderzoeksvraag}
+
+
+De vraag waarop de uitkomst van dit onderzoek uiteindelijk zal op antwoorden is of het wel degelijk mogelijk is om dokters handgeschrift te extraheren van doktersbriefjes. In welke zin varieert dokters handgeschrift van een ander en heeft dit invloed op de herkenning?  De focus hierbij ligt op de efficiëntie van de gebruikte oplossing, in het geval van dit onderzoek zal de herkenningsfase in het praktische gedeelte gebruik maken van Azure Computer Vision. Dit omvat grotendeels de hoofdonderzoeksvraag, echter kan deze vraag nog opgedeeld worden in verschillende deelvragen. 
+\begin{itemize}
+  \item  Welke factoren bepalen de accuraatheid? 
+  \item  Worden medische termen even accuraat vertaald als normale tekst? 
+  \item  Kan men deze oplossing hergebruiken voor andere doeleinden? 
+  \item  In hoeverre maakt zelf ingebrachte data een verschil op het resultaat? 
+\end{itemize}
+
+\section{\IfLanguageName{dutch}{Onderzoeksdoelstelling}{Research objective}}
+\label{sec:onderzoeksdoelstelling}
+
+De uiteindelijke conclusie van dit onderzoek zal aantonen dat dergelijke software ontwikkelt kan worden om het probleem dat doktersgeschrift met zich meebrengt op te lossen. Wanneer de software levert wat er gevraagd wordt kan dit onderzoek als succesvol verklaard worden. Een accuraatheid van +- 74 \% zou aantonen dat het systeem met een degelijke accuraatheid de extractie kan uitvoeren. In het domein van handschrift extractie wordt dit gezien als een hoog percentage. Percentages bij geprinte tekst liggen veel hoger aangezien een font eenzelfde lettertype/lettergrootte aanhoudt. Uiteraard is het ook van belang dat de CM een meerwaarde ziet in het gebruik van deze software. Hierbij zal men rechtstreeks doktersbriefjes kunnen inscannen en meteen ook een digitale versie verkrijgen van de inhoud.  
+
+\section{\IfLanguageName{dutch}{Opzet van deze bachelorproef}{Structure of this bachelor thesis}}
+\label{sec:opzet-bachelorproef}
+
+% Het is gebruikelijk aan het einde van de inleiding een overzicht te
+% geven van de opbouw van de rest van de tekst. Deze sectie bevat al een aanzet
+% die je kan aanvullen/aanpassen in functie van je eigen tekst.
+
+De rest van deze bachelorproef is als volgt opgebouwd:
+
+In Hoofdstuk~\ref{ch:stand-van-zaken} wordt een overzicht gegeven van de stand van zaken binnen het onderzoeksdomein, op basis van een literatuurstudie.
+
+In Hoofdstuk~\ref{ch:methodologie} wordt de methodologie toegelicht en worden de gebruikte onderzoekstechnieken besproken om een antwoord te kunnen formuleren op de onderzoeksvragen.
+
+% TODO: Vul hier aan voor je eigen hoofstukken, één of twee zinnen per hoofdstuk
+
+In Hoofdstuk~\ref{ch:conclusie}, tenslotte, wordt de conclusie gegeven en een antwoord geformuleerd op de onderzoeksvragen. Daarbij wordt ook een aanzet gegeven voor toekomstig onderzoek binnen dit domein.

@@ -1,0 +1,113 @@
+%==============================================================================
+% Sjabloon onderzoeksvoorstel bachelorproef
+%==============================================================================
+% Gebaseerd op LaTeX-sjabloon ‘Stylish Article’ (zie voorstel.cls)
+% Auteur: Jens Buysse, Bert Van Vreckem
+%
+% Compileren in TeXstudio:
+%
+% - Zorg dat Biber de bibliografie compileert (en niet Biblatex)
+%   Options > Configure > Build > Default Bibliography Tool: "txs:///biber"
+% - F5 om te compileren en het resultaat te bekijken.
+% - Als de bibliografie niet zichtbaar is, probeer dan F5 - F8 - F5
+%   Met F8 compileer je de bibliografie apart.
+%
+% Als je JabRef gebruikt voor het bijhouden van de bibliografie, zorg dan
+% dat je in ``biblatex''-modus opslaat: File > Switch to BibLaTeX mode.
+
+\documentclass{voorstel}
+
+\usepackage{lipsum}
+
+%------------------------------------------------------------------------------
+% Metadata over het voorstel
+%------------------------------------------------------------------------------
+
+%---------- Titel & auteur ----------------------------------------------------
+
+% TODO: geef werktitel van je eigen voorstel op
+\PaperTitle{Handschriftherkenning voor doktersbriefjes}
+\PaperType{Onderzoeksvoorstel Bachelorproef 2019-2020} % Type document
+
+% TODO: vul je eigen naam in als auteur, geef ook je emailadres mee!
+\Authors{Helmi Dayyeh\textsuperscript{1}} % Authors
+\CoPromotor{Wouter Baetens}
+
+
+%---------- Abstract ----------------------------------------------------------
+
+\Abstract{
+Met de opkomst van \textbf{artificiële intelligentie} worden alledaagse taken al vaak geautomatiseerd. Vandaag de dag hebben bedrijven de tijd en het budget niet om talloze mensen aan te werven om terugkerende manuele taken uit te voeren. Bovendien zijn mensen gekend om fouten te maken en kan dit een negatieve invloed op de workflow hebben.  
+
+  
+
+Deze analyse is gebaseerd op een recent onderzoek uitgevoerd door Vectr.Consulting in samenwerking met de Christelijke mutualiteit. De probleemstelling bij dit onderzoek bleek te zijn dat de handgeschreven overlijdensakten niet leesbaar waren. Dit heeft men dan doormiddel van een applicatie die gebruik maakt van het Tenserflow framework met een getraind neuraal netwerk opgelost, waarbij in \textbf{47 \%} van de gevallen het handgeschrift correct voorspeld werd.   
+
+  
+
+De vraag en hetgeen dit onderzoek zal gaan vaststellen is of via deze handtering ook het handgeschrift op doktersbriefjes kan herkend worden.   
+
+  
+
+In de literatuurstudie zal tot in detail de opzet en de statistieken van het neuraal netwerk beschreven staan. Het grootste obstakel zal dan ook uiteraard de data zijn die verzameld zal moeten worden van een derde partij.  
+
+  
+
+Het praktische gedeelte van dit onderzoek zal gebruik maken een app die in de achtergrond \textbf{azure cognitive services} gebruikt om het model te trainen en predicties te maken.   
+
+  
+
+Door dit onderzoek uit te voeren met een praktisch voorbeeld zal de christelijke mutualiteit een meerwaarde zien in de overstap naar   \textbf{artificiële intelligentie} binnen hun organisatie. 
+}
+
+%---------- Onderzoeksdomein en sleutelwoorden --------------------------------
+% TODO: Sleutelwoorden:
+%
+% Het eerste sleutelwoord beschrijft het onderzoeksdomein. Je kan kiezen uit
+% deze lijst:
+%
+% - Mobiele applicatieontwikkeling
+% - Webapplicatieontwikkeling
+% - Applicatieontwikkeling (andere)
+% - Systeembeheer
+% - Netwerkbeheer
+% - Mainframe
+% - E-business
+% - Databanken en big data
+% - Machineleertechnieken en kunstmatige intelligentie
+% - Andere (specifieer)
+%
+% De andere sleutelwoorden zijn vrij te kiezen
+
+\Keywords{Onderzoeksdomein. AI, Machine learning --- Azure Cognitive Services } % Keywords
+\newcommand{\keywordname}{Sleutelwoorden} % Defines the keywords heading name
+
+%---------- Titel, inhoud -----------------------------------------------------
+
+\begin{document}
+
+\flushbottom % Makes all text pages the same height
+\maketitle % Print the title and abstract box
+\tableofcontents % Print the contents section
+\thispagestyle{empty} % Removes page numbering from the first page
+
+%------------------------------------------------------------------------------
+% Hoofdtekst
+%------------------------------------------------------------------------------
+
+% De hoofdtekst van het voorstel zit in een apart bestand, zodat het makkelijk
+% kan opgenomen worden in de bijlagen van de bachelorproef zelf.
+\input{voorstel-inhoud}
+
+%------------------------------------------------------------------------------
+% Referentielijst
+%------------------------------------------------------------------------------
+% TODO: de gerefereerde werken moeten in BibTeX-bestand ``voorstel.bib''
+% voorkomen. Gebruik JabRef om je bibliografie bij te houden en vergeet niet
+% om compatibiliteit met Biber/BibLaTeX aan te zetten (File > Switch to
+% BibLaTeX mode)
+
+\phantomsection
+\printbibliography[heading=bibintoc]
+
+\end{document}
