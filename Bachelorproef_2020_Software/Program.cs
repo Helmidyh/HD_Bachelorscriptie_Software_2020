@@ -6,7 +6,9 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using System.Web;
-
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision;
+using Microsoft.Azure.CognitiveServices.Vision.ComputerVision.Models;
+using System.Text;
 
 namespace Bachelorproef_2020_Software {
 	static class Program {
@@ -60,11 +62,6 @@ namespace Bachelorproef_2020_Software {
 			Console.ReadLine();
 		}
 
-		/// <summary>
-		/// Gets the text from the specified image file by using
-		/// the Computer Vision REST API.
-		/// </summary>
-		/// <param name="imageFilePath">The image file with text.</param>
 		static async Task ReadText(string imageFilePath, string language) {
 			try {
 				HttpClient client = new HttpClient();
@@ -82,23 +79,12 @@ namespace Bachelorproef_2020_Software {
 
 				HttpResponseMessage response;
 
-				// Two REST API methods are required to extract text.
-				// One method to submit the image for processing, the other method
-				// to retrieve the text found in the image.
-
-				// operationLocation stores the URI of the second REST API method,
-				// returned by the first REST API method.
 				string operationLocation;
 
-				// Reads the contents of the specified local image
-				// into a byte array.
 				byte[] byteData = GetImageAsByteArray(imageFilePath);
 
 				// Adds the byte array as an octet stream to the request body.
 				using (ByteArrayContent content = new ByteArrayContent(byteData)) {
-					// This example uses the "application/octet-stream" content type.
-					// The other content types you can use are "application/json"
-					// and "multipart/form-data".
 					content.Headers.ContentType =
 						 new MediaTypeHeaderValue("application/octet-stream");
 
@@ -107,10 +93,6 @@ namespace Bachelorproef_2020_Software {
 					response = await client.PostAsync(url, content);
 				}
 
-				// The response header for the Batch Read method contains the URI
-				// of the second method, Read Operation Result, which
-				// returns the results of the process in the response body.
-				// The Batch Read operation does not return anything in the response body.
 				if (response.IsSuccessStatusCode)
 					operationLocation =
 						 response.Headers.GetValues("Operation-Location").FirstOrDefault();
@@ -122,15 +104,6 @@ namespace Bachelorproef_2020_Software {
 					return;
 				}
 
-				// If the first REST API method completes successfully, the second 
-				// REST API method retrieves the text written in the image.
-				//
-				// Note: The response may not be immediately available. Text
-				// recognition is an asynchronous operation that can take a variable
-				// amount of time depending on the length of the text.
-				// You may need to wait or retry this operation.
-				//
-				// This example checks once per second for ten seconds.
 				string contentString;
 				int i = 0;
 				do {
@@ -145,21 +118,40 @@ namespace Bachelorproef_2020_Software {
 					Console.WriteLine("\nTimeout error.\n");
 					return;
 				}
+				StringBuilder sb = new StringBuilder();
+	
 
-				// Display the JSON response.
-				Console.WriteLine("\nResponse:\n\n{0}\n",
-					 JToken.Parse(contentString).ToString());
+				var jsonresult  = JToken.Parse(contentString);
+				var x = jsonresult.SelectToken("analyzeResult").SelectToken("readResults").First().SelectToken("lines");
+
+				Console.WriteLine(x.ToString());
+
+				foreach (var w in x) {
+					sb.Append("\n")
+					.Append(w.SelectToken("text").ToString())
+					.Append("\n")
+					.Append("\n");
+					foreach (var z in w.SelectToken("words")) {
+						sb.Append(String.Format(" '{0}' ", z.SelectToken("text")))
+							.Append(" ")
+							.Append("detected with a confidence level of")
+							.Append(" ")
+							.Append(String.Format("[{0}]", z.SelectToken("confidence")));
+						sb.Append("\n");
+					}
+
+				}
+
+				Console.WriteLine(sb.ToString());
+
+			   Console.WriteLine("\nResponse:\n\n{0}\n",
+			   sb.ToString());;
 			}
 			catch (Exception e) {
 				Console.WriteLine("\n" + e.Message);
 			}
 		}
 
-		/// <summary>
-		/// Returns the contents of the specified file as a byte array.
-		/// </summary>
-		/// <param name="imageFilePath">The image file to read.</param>
-		/// <returns>The byte array of the image data.</returns>
 		static byte[] GetImageAsByteArray(string imageFilePath) {
 			// Open a read-only file stream for the specified file.
 			using (FileStream fileStream =
@@ -169,6 +161,8 @@ namespace Bachelorproef_2020_Software {
 				return binaryReader.ReadBytes((int)fileStream.Length);
 			}
 		}
+
+
 	}
 }
 
